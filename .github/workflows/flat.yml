@@ -7,6 +7,7 @@ on:
     paths:
       - .github/workflows/flat.yml
       - ./data-ptime-en.js
+      - ./data-ptime-non-country-en.js
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -33,3 +34,4 @@ jobs:
         with:
           http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-non-country-en.json
           downloaded_filename: data-ptime-non-country-en.json
+          postprocess: ./data-ptime-non-country-en.js

@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
+      - ./convert-to-csv.ts
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -21,3 +22,4 @@ jobs:
         with:
           http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-en.json
           downloaded_filename: data-ptime-en.json
+          postprocess: ./convert-to-csv.ts

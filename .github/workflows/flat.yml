@@ -1,7 +1,7 @@
 name: data
 on:
   schedule:
-    - cron: 0 0 * * 3
+    - cron: 0 0 * * 3,6
   workflow_dispatch: {}
   push:
     paths:
@@ -28,3 +28,8 @@ jobs:
           http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-en.json
           downloaded_filename: data-ptime-en.json
           postprocess: ./data-ptime-en.js
+      - name: Fetch data for in Canada services
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-non-country-en.json
+          downloaded_filename: data-ptime-non-country-en.json

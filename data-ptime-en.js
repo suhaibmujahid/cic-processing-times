@@ -25,5 +25,20 @@ const formate = (keysMap, obj) =>
 
 const country = (await readJSON("data-country-name-en.json"))["country-name"];
 const formattedOutput = output.map((row) => formate(country, row));
-const formattedfile = `formatted-${newfile}`;
-await writeCSV(formattedfile, formattedOutput);
+await writeCSV(`formatted-${newfile}`, formattedOutput);
+
+const formattedSelectedOutput = output.map(
+  ({ type, WB, JO, TR, IL, lastupdated }) =>
+    formate(country, {
+      type,
+      WB,
+      JO,
+      TR,
+      IL,
+      lastupdated,
+    })
+);
+await writeCSV(
+  `formatted-selected-countries-${newfile}`,
+  formattedSelectedOutput
+);

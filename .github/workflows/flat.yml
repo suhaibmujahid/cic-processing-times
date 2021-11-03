@@ -6,7 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      - ./convert-to-csv.ts
+      - ./data-ptime-en.js
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -17,9 +17,14 @@ jobs:
           deno-version: v1.x
       - name: Check out repo
         uses: actions/checkout@v2
-      - name: Fetch data
+      - name: Fetch country names
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-country-name-en.json
+          downloaded_filename: data-country-name-en.json
+      - name: Fetch processing times
         uses: githubocto/flat@v3
         with:
           http_url: https://www.canada.ca/content/dam/ircc/documents/json/data-ptime-en.json
           downloaded_filename: data-ptime-en.json
-          postprocess: ./convert-to-csv.ts
+          postprocess: ./data-ptime-en.js

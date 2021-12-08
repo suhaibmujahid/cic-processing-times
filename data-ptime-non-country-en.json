@@ -1,36 +1,36 @@
 {
 "visitor-inside-canada": {
-"online": "92 days",
-"paper": "92 days",
-"lastupdated": "November 30, 2021"
+"online": "108 days",
+"paper": "108 days",
+"lastupdated": "December 7, 2021"
 },
 
 "visitor_extension": {
-"online": "142 days",
-"paper": "142 days",
-"lastupdated": "November 30, 2021"
+"online": "143 days",
+"paper": "143 days",
+"lastupdated": "December 7, 2021"
 },
 
 "study_permit_outside": {
 "study_permit_outside": "13 weeks",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "study_extension": {
-"online": "57 days",
-"paper": "57 days",
-"lastupdated": "November 30, 2021"
+"online": "56 days",
+"paper": "56 days",
+"lastupdated": "December 7, 2021"
 },
 
 "work_extension_new_employer": {
-"online": "106 days",
-"paper": "106 days",
-"lastupdated": "November 30, 2021"
+"online": "107 days",
+"paper": "107 days",
+"lastupdated": "December 7, 2021"
 },
 
 "iec": {
 "iec": "9 weeks",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "eta": {
@@ -43,38 +43,38 @@
 
 "cec": {
 "cec_ee": "6 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "entrepreneur_federal": {
 "entrepreneur_federal": "Not enough data is available.", 
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "investor_federal": {
 "investor_federal": "Not enough data is available.",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "quebec_business": {
-"quebec_business": "55 months",
-"lastupdated": "November 30, 2021"
+"quebec_business": "64 months",
+"lastupdated": "December 7, 2021"
 },
 
 "carechildren": {
-"carechildren": "25 months",
-"lastupdated": "November 30, 2021"
+"carechildren": "26 months",
+"lastupdated": "December 7, 2021"
 },
 
 "highmedical": {
 "high_medical": "No processing time available",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "provincial_nominees_back": {
-"provincial_nominees_paper_back": "23 months",
+"provincial_nominees_paper_back": "24 months",
 "provincial_nominees_ee": "6 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "provincial_nominees_forward": {
@@ -84,22 +84,22 @@
 
 "self_employed_federal": {
 "self_employed_federal": "36 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "fed_skilled_workers": {
 "skilled_workers_ee": "6 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "fed_skilled_trades": {
 "skilled_trades_ee": "6 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "skilled_workers_quebec": {
-"skilled_workers_quebec": "27 months",
-"lastupdated": "November 30, 2021"
+"skilled_workers_quebec": "26 months",
+"lastupdated": "December 7, 2021"
 },
 
 "skilled_workers_quebec_forward": {
@@ -109,7 +109,7 @@
 
 "startup_back": {
 "startup_back": "31 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "startup_forward": {
@@ -132,12 +132,12 @@
 
 "refugees_protected_back": {
 "refugees_protected_past": "22 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "humanitarian_compassionate_back": {
-"humanitarian_compassionate_back": "22 months",
-"lastupdated": "November 30, 2021"
+"humanitarian_compassionate_back": "21 months",
+"lastupdated": "December 7, 2021"
 },
 
 "humanitarian_compassionate_forward": {
@@ -151,13 +151,13 @@
 "cit_resumption": "16 months",
 "cit_renunciation": "6 months",
 "cit_search": "10 months",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 },
 
 "pr_card": {
 "new_pr": "56 days",
-"existing_pr": "136 days",
-"lastupdated": "November 30, 2021"
+"existing_pr": "133 days",
+"lastupdated": "December 7, 2021"
 },
 
 "rep_documents": {
@@ -165,6 +165,6 @@
 "replacement": "1 month",
 "amend_imm": "6 months",
 "amend_tr": "1 month",
-"lastupdated": "November 30, 2021"
+"lastupdated": "December 7, 2021"
 }
 }

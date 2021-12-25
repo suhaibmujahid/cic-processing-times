@@ -1,36 +1,36 @@
 {
 "visitor-inside-canada": {
-"online": "134 days",
-"paper": "134 days",
-"lastupdated": "December 14, 2021"
+"online": "140 days",
+"paper": "140 days",
+"lastupdated": "December 22, 2021"
 },
 
 "visitor_extension": {
-"online": "142 days",
-"paper": "142 days",
-"lastupdated": "December 14, 2021"
+"online": "138 days",
+"paper": "138 days",
+"lastupdated": "December 22, 2021"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "13 weeks",
-"lastupdated": "December 14, 2021"
+"study_permit_outside": "12 weeks",
+"lastupdated": "December 22, 2021"
 },
 
 "study_extension": {
-"online": "56 days",
-"paper": "56 days",
-"lastupdated": "December 14, 2021"
+"online": "57 days",
+"paper": "57 days",
+"lastupdated": "December 22, 2021"
 },
 
 "work_extension_new_employer": {
-"online": "108 days",
-"paper": "108 days",
-"lastupdated": "December 14, 2021"
+"online": "109 days",
+"paper": "109 days",
+"lastupdated": "December 22, 2021"
 },
 
 "iec": {
 "iec": "8 weeks",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "eta": {
@@ -43,78 +43,78 @@
 
 "cec": {
 "cec_ee": "6 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "entrepreneur_federal": {
 "entrepreneur_federal": "Not enough data is available.", 
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "investor_federal": {
 "investor_federal": "Not enough data is available.",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "quebec_business": {
 "quebec_business": "64 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "carechildren": {
 "carechildren": "26 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "highmedical": {
 "high_medical": "No processing time available",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "provincial_nominees_back": {
 "provincial_nominees_paper_back": "24 months",
 "provincial_nominees_ee": "6 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "provincial_nominees_forward": {
 "provincial_nominees_paper_forward": "15 to 19 months",
-"lastupdated": "March 2, 2021"
+"lastupdated": "NO LONGER IN USE"
 },
 
 "self_employed_federal": {
 "self_employed_federal": "36 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "fed_skilled_workers": {
 "skilled_workers_ee": "6 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "fed_skilled_trades": {
 "skilled_trades_ee": "6 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "skilled_workers_quebec": {
 "skilled_workers_quebec": "26 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "skilled_workers_quebec_forward": {
 "skilled_workers_quebec_forward": "15 to 17 months",
-"lastupdated": "March 2, 2021"
+"lastupdated": "NO LONGER IN USE"
 },
 
 "startup_back": {
 "startup_back": "31 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "startup_forward": {
 "startup_forward": "12 to 16 months",
-"lastupdated": "March 2, 2021"
+"lastupdated": "NO LONGER IN USE"
 },
 
 "spouse_can": {
@@ -127,22 +127,22 @@
 
 "parent_grandparent_forward": {
 "parent_grandparent_forward": "20 to 24 months",
-"lastupdated": "March 2, 2021"
+"lastupdated": "NO LONGER IN USE"
 },
 
 "refugees_protected_back": {
 "refugees_protected_past": "22 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "humanitarian_compassionate_back": {
 "humanitarian_compassionate_back": "21 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "humanitarian_compassionate_forward": {
 "humanitarian_compassionate_forward": "22 to 36 months",
-"lastupdated": "March 2, 2021"
+"lastupdated": "NO LONGER IN USE"
 },
 
 "citizenship": {
@@ -151,13 +151,13 @@
 "cit_resumption": "16 months",
 "cit_renunciation": "6 months",
 "cit_search": "10 months",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "pr_card": {
 "new_pr": "58 days",
 "existing_pr": "130 days",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 },
 
 "rep_documents": {
@@ -165,6 +165,6 @@
 "replacement": "1 month",
 "amend_imm": "6 months",
 "amend_tr": "1 month",
-"lastupdated": "December 14, 2021"
+"lastupdated": "December 22, 2021"
 }
 }

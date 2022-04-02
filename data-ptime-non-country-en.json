@@ -1,36 +1,37 @@
 {
 "visitor-inside-canada": {
 "online": "16 days",
-"paper": "16 days",
-"lastupdated": "March 29, 2022"
+"paper": "48 days",
+"lastupdated": "March 31, 2022"
 },
 
 "visitor_extension": {
-"online": "199 days",
-"paper": "199 days",
-"lastupdated": "March 29, 2022"
+"online": "162 days",
+"paper": "201 days",
+"lastupdated": "March 31, 2022"
 },
 
 "study_permit_outside": {
 "study_permit_outside": "13 weeks",
-"lastupdated": "March 29, 2022"
+"lastupdated": "March 31, 2022"
 },
 
 "study_extension": {
-"online": "85 days",
-"paper": "85 days",
-"lastupdated": "March 29, 2022"
+"online": "75 days",
+"paper": "156 days",
+"lastupdated": "March 31, 2022"
 },
 
 "work_extension_new_employer": {
-"online": "135 days",
-"paper": "135 days",
-"lastupdated": "March 29, 2022"
+"online": "133 days",
+"paper": "239 days",
+"lastupdated": "March 31, 2022"
 },
 
 "iec": {
 "iec": "2 weeks",
-"lastupdated": "March 29, 2022"
+"iec_past": "18 weeks",
+"lastupdated": "March 31, 2022"
 },
 
 "eta": {
@@ -38,133 +39,97 @@
 },
 
 "atlantic_immigration": {
-"atlantic_immigration": "6 months"
+"atlantic_immigration": "14 months",
+"lastupdated": "March 31, 2022"
 },
 
 "cec": {
 "cec_ee": "7 months",
-"lastupdated": "March 29, 2022"
-},
-
-"entrepreneur_federal": {
-"entrepreneur_federal": "Not enough data is available.", 
-"lastupdated": "March 29, 2022"
-},
-
-"investor_federal": {
-"investor_federal": "Not enough data is available.",
-"lastupdated": "March 29, 2022"
+"lastupdated": "March 31, 2022"
 },
 
 "quebec_business": {
 "quebec_business": "65 months",
-"lastupdated": "March 29, 2022"
-},
-
-"carechildren": {
-"carechildren": "27 months",
-"lastupdated": "March 29, 2022"
-},
-
-"highmedical": {
-"high_medical": "No processing time available",
-"lastupdated": "March 29, 2022"
+"lastupdated": "March 31, 2022"
 },
 
 "provincial_nominees_back": {
-"provincial_nominees_paper_back": "25 months",
-"provincial_nominees_ee": "6 months",
-"lastupdated": "March 29, 2022"
-},
-
-"provincial_nominees_forward": {
-"provincial_nominees_paper_forward": "15 to 19 months",
-"lastupdated": "NO LONGER IN USE"
+"provincial_nominees_paper_back": "27 months",
+"provincial_nominees_ee": "22 months",
+"lastupdated": "March 31, 2022"
 },
 
 "self_employed_federal": {
-"self_employed_federal": "41 months",
-"lastupdated": "March 29, 2022"
+"self_employed_federal": "42 months",
+"lastupdated": "March 31, 2022"
 },
 
 "fed_skilled_workers": {
-"skilled_workers_ee": "6 months",
-"lastupdated": "March 29, 2022"
+"skilled_workers_ee": "27 months",
+"lastupdated": "March 31, 2022"
 },
 
 "fed_skilled_trades": {
-"skilled_trades_ee": "6 months",
-"lastupdated": "March 29, 2022"
+"skilled_trades_ee": "27 months",
+"lastupdated": "March 31, 2022"
 },
 
 "skilled_workers_quebec": {
-"skilled_workers_quebec": "28 months",
-"lastupdated": "March 29, 2022"
-},
-
-"skilled_workers_quebec_forward": {
-"skilled_workers_quebec_forward": "15 to 17 months",
-"lastupdated": "NO LONGER IN USE"
+"skilled_workers_quebec": "31 months",
+"lastupdated": "March 31, 2022"
 },
 
 "startup_back": {
 "startup_back": "31 months",
-"lastupdated": "March 29, 2022"
-},
-
-"startup_forward": {
-"startup_forward": "12 to 16 months",
-"lastupdated": "NO LONGER IN USE"
+"lastupdated": "March 31, 2022"
 },
 
 "spouse_can": {
-"service_comittment": "12 months"
+"service_comittment": "16 months",
+"lastupdated": "March 31, 2022"
 },
 
 "spouse_int": {
-"service_comittment": "12 months"
+"service_comittment": "19 months",
+"lastupdated": "March 31, 2022"
 },
 
 "parent_grandparent_forward": {
-"parent_grandparent_forward": "20 to 24 months",
-"lastupdated": "NO LONGER IN USE"
+"parent_grandparent_forward": "32 months",
+"lastupdated": "March 31, 2022"
 },
 
 "refugees_protected_back": {
 "refugees_protected_past": "22 months",
-"lastupdated": "March 29, 2022"
+"lastupdated": "March 31, 2022"
 },
 
 "humanitarian_compassionate_back": {
-"humanitarian_compassionate_back": "20 months",
-"lastupdated": "March 29, 2022"
-},
-
-"humanitarian_compassionate_forward": {
-"humanitarian_compassionate_forward": "22 to 36 months",
-"lastupdated": "NO LONGER IN USE"
+"humanitarian_compassionate_back": "16 months",
+"lastupdated": "March 31, 2022"
 },
 
 "citizenship": {
-"grant_after2015": "12 months",
-"cit_cert": "5 months",
-"cit_resumption": "16 months",
-"cit_renunciation": "6 months",
-"cit_search": "10 months",
-"lastupdated": "March 29, 2022"
+"grant_after2015": "27 months",
+"cit_cert": "17 months",
+"cit_resumption": "23 months",
+"cit_renunciation": "15 months",
+"cit_search": "15 months",
+"cit_adoption_part1": "Part 1: 11 months",
+"lastupdated": "March 31, 2022"
 },
 
 "pr_card": {
 "new_pr": "103 days",
 "existing_pr": "108 days",
-"lastupdated": "March 29, 2022"
+"lastupdated": "March 31, 2022"
 },
 
 "rep_documents": {
-"vos": "6 months",
-"replacement": "1 month",
-"amend_imm": "6 months",
-"amend_tr": "1 month",
-"lastupdated": "March 29, 2022"
+"vos": "26 weeks",
+"replacement": "22 weeks",
+"amend_imm": "47 weeks",
+"amend_tr": "27 weeks",
+"lastupdated": "March 31, 2022"
 }
 }

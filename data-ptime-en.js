@@ -9,15 +9,22 @@ for (const type in data) {
 const newfile = filename.replace(".json", ".csv");
 await writeCSV(newfile, output);
 
+const flatObject = (obj) =>
+  Object.keys(obj)
+    .map((key) => {
+      return `${key}: ${obj[key]}`;
+    })
+    .join(" / ");
+
 const formate = (keysMap, obj) =>
   Object.keys(obj).reduce(
     (acc, key) => ({
       ...acc,
       ...{
-        [keysMap[key] || key]: obj[key].replace(
-          "No processing time available",
-          ""
-        ),
+        [keysMap[key] || key]:
+          typeof obj[key] === "string"
+            ? obj[key].replace("No processing time available", "")
+            : flatObject(obj[key]),
       },
     }),
     {}

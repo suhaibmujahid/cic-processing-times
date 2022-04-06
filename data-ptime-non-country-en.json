@@ -1,37 +1,41 @@
 {
+"default-update": {
+"lastupdated": "April 5, 2022"
+},
+
 "visitor-inside-canada": {
-"online": "16 days",
-"paper": "48 days",
-"lastupdated": "March 31, 2022"
+"online": "14 days",
+"paper": "47 days",
+"lastupdated": "April 5, 2022"
 },
 
 "visitor_extension": {
-"online": "162 days",
-"paper": "201 days",
-"lastupdated": "March 31, 2022"
+"online": "213 days",
+"paper": "202 days",
+"lastupdated": "April 5, 2022"
 },
 
 "study_permit_outside": {
 "study_permit_outside": "13 weeks",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "study_extension": {
-"online": "75 days",
-"paper": "156 days",
-"lastupdated": "March 31, 2022"
+"online": "82 days",
+"paper": "161 days",
+"lastupdated": "April 5, 2022"
 },
 
 "work_extension_new_employer": {
 "online": "133 days",
-"paper": "239 days",
-"lastupdated": "March 31, 2022"
+"paper": "237 days",
+"lastupdated": "April 5, 2022"
 },
 
 "iec": {
 "iec": "2 weeks",
-"iec_past": "18 weeks",
-"lastupdated": "March 31, 2022"
+"iec_past": "19 weeks",
+"lastupdated": "April 5, 2022"
 },
 
 "eta": {
@@ -40,96 +44,96 @@
 
 "atlantic_immigration": {
 "atlantic_immigration": "14 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "cec": {
-"cec_ee": "7 months",
-"lastupdated": "March 31, 2022"
+"cec_ee": "8 months",
+"lastupdated": "April 5, 2022"
 },
 
 "quebec_business": {
-"quebec_business": "65 months",
-"lastupdated": "March 31, 2022"
+"quebec_business": "64 months",
+"lastupdated": "April 5, 2022"
 },
 
 "provincial_nominees_back": {
-"provincial_nominees_paper_back": "27 months",
+"provincial_nominees_paper_back": "28 months",
 "provincial_nominees_ee": "22 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "self_employed_federal": {
-"self_employed_federal": "42 months",
-"lastupdated": "March 31, 2022"
+"self_employed_federal": "41 months",
+"lastupdated": "April 5, 2022"
 },
 
 "fed_skilled_workers": {
 "skilled_workers_ee": "27 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "fed_skilled_trades": {
-"skilled_trades_ee": "27 months",
-"lastupdated": "March 31, 2022"
+"skilled_trades_ee": "37 months",
+"lastupdated": "April 5, 2022"
 },
 
 "skilled_workers_quebec": {
 "skilled_workers_quebec": "31 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "startup_back": {
 "startup_back": "31 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "spouse_can": {
 "service_comittment": "16 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "spouse_int": {
-"service_comittment": "19 months",
-"lastupdated": "March 31, 2022"
+"service_comittment": "20 months",
+"lastupdated": "April 5, 2022"
 },
 
 "parent_grandparent_forward": {
 "parent_grandparent_forward": "32 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "refugees_protected_back": {
-"refugees_protected_past": "22 months",
-"lastupdated": "March 31, 2022"
+"refugees_protected_past": "23 months",
+"lastupdated": "April 5, 2022"
 },
 
 "humanitarian_compassionate_back": {
-"humanitarian_compassionate_back": "16 months",
-"lastupdated": "March 31, 2022"
+"humanitarian_compassionate_back": "15 months",
+"lastupdated": "April 5, 2022"
 },
 
 "citizenship": {
 "grant_after2015": "27 months",
 "cit_cert": "17 months",
-"cit_resumption": "23 months",
+"cit_resumption": "24 months",
 "cit_renunciation": "15 months",
 "cit_search": "15 months",
 "cit_adoption_part1": "Part 1: 11 months",
-"lastupdated": "March 31, 2022"
+"lastupdated": "April 5, 2022"
 },
 
 "pr_card": {
-"new_pr": "103 days",
-"existing_pr": "108 days",
-"lastupdated": "March 31, 2022"
+"new_pr": "102 days",
+"existing_pr": "105 days",
+"lastupdated": "April 5, 2022"
 },
 
 "rep_documents": {
 "vos": "26 weeks",
-"replacement": "22 weeks",
-"amend_imm": "47 weeks",
-"amend_tr": "27 weeks",
-"lastupdated": "March 31, 2022"
+"replacement": "21 weeks",
+"amend_imm": "46 weeks",
+"amend_tr": "26 weeks",
+"lastupdated": "April 5, 2022"
 }
 }

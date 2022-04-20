@@ -1,40 +1,40 @@
 service,time,lastupdated
-visitor-inside-canada / online,13 days,"April 12, 2022"
-visitor-inside-canada / paper,43 days,"April 12, 2022"
-visitor_extension / online,214 days,"April 12, 2022"
-visitor_extension / paper,203 days,"April 12, 2022"
-study_permit_outside / study_permit_outside,13 weeks,"April 12, 2022"
-study_extension / online,73 days,"April 12, 2022"
-study_extension / paper,172 days,"April 12, 2022"
-work_extension_new_employer / online,133 days,"April 12, 2022"
-work_extension_new_employer / paper,228 days,"April 12, 2022"
-iec / iec,2 weeks,"April 12, 2022"
-iec / iec_past,20 weeks,"April 12, 2022"
+visitor-inside-canada / online,11 days,
+visitor-inside-canada / paper,42 days,
+visitor_extension / online,213 days,
+visitor_extension / paper,212 days,
+study_permit_outside / study_permit_outside,13 weeks,
+study_extension / online,64 days,
+study_extension / paper,179 days,
+work_extension_new_employer / online,133 days,
+work_extension_new_employer / paper,205 days,
+iec / iec,3 weeks,
+iec / iec_past,21 weeks,
 eta / eta,5 minutes,
-atlantic_immigration / atlantic_immigration,14 months,"April 12, 2022"
-cec / cec_ee,8 months,"April 12, 2022"
-quebec_business / quebec_business,64 months,"April 12, 2022"
-provincial_nominees_back / provincial_nominees_paper_back,28 months,"April 12, 2022"
-provincial_nominees_back / provincial_nominees_ee,22 months,"April 12, 2022"
-self_employed_federal / self_employed_federal,41 months,"April 12, 2022"
-fed_skilled_workers / skilled_workers_ee,27 months,"April 12, 2022"
-fed_skilled_trades / skilled_trades_ee,37 months,"April 12, 2022"
-skilled_workers_quebec / skilled_workers_quebec,31 months,"April 12, 2022"
-startup_back / startup_back,31 months,"April 12, 2022"
-spouse_can / service_comittment,16 months,"April 12, 2022"
-spouse_int / service_comittment,20 months,"April 12, 2022"
-parent_grandparent_forward / parent_grandparent_forward,32 months,"April 12, 2022"
-refugees_protected_back / refugees_protected_past,23 months,"April 12, 2022"
-humanitarian_compassionate_back / humanitarian_compassionate_back,15 months,"April 12, 2022"
-citizenship / grant_after2015,27 months,"April 12, 2022"
-citizenship / cit_cert,17 months,"April 12, 2022"
-citizenship / cit_resumption,24 months,"April 12, 2022"
-citizenship / cit_renunciation,15 months,"April 12, 2022"
-citizenship / cit_search,15 months,"April 12, 2022"
-citizenship / cit_adoption_part1,Part 1: 11 months,"April 12, 2022"
-pr_card / new_pr,106 days,"April 12, 2022"
-pr_card / existing_pr,91 days,"April 12, 2022"
-rep_documents / vos,26 weeks,"April 12, 2022"
-rep_documents / replacement,21 weeks,"April 12, 2022"
-rep_documents / amend_imm,46 weeks,"April 12, 2022"
-rep_documents / amend_tr,26 weeks,"April 12, 2022"
+atlantic_immigration / atlantic_immigration,14 months,
+cec / cec_ee,8 months,
+quebec_business / quebec_business,64 months,
+provincial_nominees_back / provincial_nominees_paper_back,28 months,
+provincial_nominees_back / provincial_nominees_ee,22 months,
+self_employed_federal / self_employed_federal,41 months,
+fed_skilled_workers / skilled_workers_ee,27 months,
+fed_skilled_trades / skilled_trades_ee,37 months,
+skilled_workers_quebec / skilled_workers_quebec,31 months,
+startup_back / startup_back,31 months,
+spouse_can / service_comittment,16 months,
+spouse_int / service_comittment,20 months,
+parent_grandparent_forward / parent_grandparent_forward,32 months,
+refugees_protected_back / refugees_protected_past,23 months,
+humanitarian_compassionate_back / humanitarian_compassionate_back,15 months,
+citizenship / grant_after2015,27 months,
+citizenship / cit_cert,17 months,
+citizenship / cit_resumption,24 months,
+citizenship / cit_renunciation,15 months,
+citizenship / cit_search,15 months,
+citizenship / cit_adoption_part1,Part 1: 11 months,
+pr_card / new_pr,94 days,
+pr_card / existing_pr,84 days,
+rep_documents / vos,26 weeks,
+rep_documents / replacement,21 weeks,
+rep_documents / amend_imm,46 weeks,
+rep_documents / amend_tr,26 weeks,

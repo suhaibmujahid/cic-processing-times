@@ -1,41 +1,35 @@
 {
 "default-update": {
-"lastupdated": "April 12, 2022"
+"lastupdated": "April 19, 2022"
 },
 
 "visitor-inside-canada": {
-"online": "13 days",
-"paper": "43 days",
-"lastupdated": "April 12, 2022"
+"online": "11 days",
+"paper": "42 days"
 },
 
 "visitor_extension": {
-"online": "214 days",
-"paper": "203 days",
-"lastupdated": "April 12, 2022"
+"online": "213 days",
+"paper": "212 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "13 weeks",
-"lastupdated": "April 12, 2022"
+"study_permit_outside": "13 weeks"
 },
 
 "study_extension": {
-"online": "73 days",
-"paper": "172 days",
-"lastupdated": "April 12, 2022"
+"online": "64 days",
+"paper": "179 days"
 },
 
 "work_extension_new_employer": {
 "online": "133 days",
-"paper": "228 days",
-"lastupdated": "April 12, 2022"
+"paper": "205 days"
 },
 
 "iec": {
-"iec": "2 weeks",
-"iec_past": "20 weeks",
-"lastupdated": "April 12, 2022"
+"iec": "3 weeks",
+"iec_past": "21 weeks"
 },
 
 "eta": {
@@ -43,74 +37,60 @@
 },
 
 "atlantic_immigration": {
-"atlantic_immigration": "14 months",
-"lastupdated": "April 12, 2022"
+"atlantic_immigration": "14 months"
 },
 
 "cec": {
-"cec_ee": "8 months",
-"lastupdated": "April 12, 2022"
+"cec_ee": "8 months"
 },
 
 "quebec_business": {
-"quebec_business": "64 months",
-"lastupdated": "April 12, 2022"
+"quebec_business": "64 months"
 },
 
 "provincial_nominees_back": {
 "provincial_nominees_paper_back": "28 months",
-"provincial_nominees_ee": "22 months",
-"lastupdated": "April 12, 2022"
+"provincial_nominees_ee": "22 months"
 },
 
 "self_employed_federal": {
-"self_employed_federal": "41 months",
-"lastupdated": "April 12, 2022"
+"self_employed_federal": "41 months"
 },
 
 "fed_skilled_workers": {
-"skilled_workers_ee": "27 months",
-"lastupdated": "April 12, 2022"
+"skilled_workers_ee": "27 months"
 },
 
 "fed_skilled_trades": {
-"skilled_trades_ee": "37 months",
-"lastupdated": "April 12, 2022"
+"skilled_trades_ee": "37 months"
 },
 
 "skilled_workers_quebec": {
-"skilled_workers_quebec": "31 months",
-"lastupdated": "April 12, 2022"
+"skilled_workers_quebec": "31 months"
 },
 
 "startup_back": {
-"startup_back": "31 months",
-"lastupdated": "April 12, 2022"
+"startup_back": "31 months"
 },
 
 "spouse_can": {
-"service_comittment": "16 months",
-"lastupdated": "April 12, 2022"
+"service_comittment": "16 months"
 },
 
 "spouse_int": {
-"service_comittment": "20 months",
-"lastupdated": "April 12, 2022"
+"service_comittment": "20 months"
 },
 
 "parent_grandparent_forward": {
-"parent_grandparent_forward": "32 months",
-"lastupdated": "April 12, 2022"
+"parent_grandparent_forward": "32 months"
 },
 
 "refugees_protected_back": {
-"refugees_protected_past": "23 months",
-"lastupdated": "April 12, 2022"
+"refugees_protected_past": "23 months"
 },
 
 "humanitarian_compassionate_back": {
-"humanitarian_compassionate_back": "15 months",
-"lastupdated": "April 12, 2022"
+"humanitarian_compassionate_back": "15 months"
 },
 
 "citizenship": {
@@ -119,21 +99,18 @@
 "cit_resumption": "24 months",
 "cit_renunciation": "15 months",
 "cit_search": "15 months",
-"cit_adoption_part1": "Part 1: 11 months",
-"lastupdated": "April 12, 2022"
+"cit_adoption_part1": "Part 1: 11 months"
 },
 
 "pr_card": {
-"new_pr": "106 days",
-"existing_pr": "91 days",
-"lastupdated": "April 12, 2022"
+"new_pr": "94 days",
+"existing_pr": "84 days"
 },
 
 "rep_documents": {
 "vos": "26 weeks",
 "replacement": "21 weeks",
 "amend_imm": "46 weeks",
-"amend_tr": "26 weeks",
-"lastupdated": "April 12, 2022"
+"amend_tr": "26 weeks"
 }
 }

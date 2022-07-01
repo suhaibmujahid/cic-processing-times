@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "June 28, 2022"
+"lastupdated": "June 29, 2022"
 },
 
 "visitor-inside-canada": {
@@ -28,7 +28,7 @@
 },
 
 "iec": {
-#N/A
+"iec": "7 weeks",
 "iec_past": "29 weeks"
 },
 

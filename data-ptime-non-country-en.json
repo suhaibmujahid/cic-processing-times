@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "August 30, 2022"
+"lastupdated": "September 6, 2022"
 },
 
 "visitor-inside-canada": {
 "online": "15 days",
-"paper": "26 days"
+"paper": "29 days"
 },
 
 "visitor_extension": {
-"online": "197 days",
-"paper": "195 days"
+"online": "202 days",
+"paper": "193 days"
 },
 
 "study_permit_outside": {
@@ -18,13 +18,13 @@
 },
 
 "study_extension": {
-"online": "41 days",
-"paper": "117 days"
+"online": "46 days",
+"paper": "109 days"
 },
 
 "work_extension_new_employer": {
 "online": "166 days",
-"paper": "137 days"
+"paper": "133 days"
 },
 
 "iec": {
@@ -41,7 +41,7 @@
 },
 
 "cec": {
-"cec_ee": "14 months"
+"cec_ee": "15 months"
 },
 
 "quebec_business": {
@@ -49,8 +49,8 @@
 },
 
 "provincial_nominees_back": {
-"provincial_nominees_paper_back": "25 months",
-"provincial_nominees_ee": "17 months"
+"provincial_nominees_paper_back": "24 months",
+"provincial_nominees_ee": "16 months"
 },
 
 "self_employed_federal": {
@@ -62,11 +62,11 @@
 },
 
 "fed_skilled_trades": {
-"skilled_trades_ee": "46 months"
+"skilled_trades_ee": "45 months"
 },
 
 "skilled_workers_quebec": {
-"skilled_workers_quebec": "29 months"
+"skilled_workers_quebec": "27 months"
 },
 
 "startup_back": {
@@ -78,7 +78,7 @@
 },
 
 "spouse_int": {
-"service_comittment": "24 months"
+"service_comittment": "23 months"
 },
 
 "parent_grandparent_forward": {
@@ -86,7 +86,7 @@
 },
 
 "refugees_protected_back": {
-"refugees_protected_past": "24 months"
+"refugees_protected_past": "23 months"
 },
 
 "humanitarian_compassionate_back": {
@@ -96,29 +96,29 @@
 "citizenship": {
 "grant_after2015": "26 months",
 "cit_cert": "17 months",
-"cit_resumption": "19 months",
-"cit_renunciation": "16 months",
+"cit_resumption": "23 months",
+"cit_renunciation": "17 months",
 "cit_search": "15 months",
-"cit_adoption_part1": "Part 1: 13 months"
+"cit_adoption_part1": "Part 1: 12 months"
 },
 
 "pr_card": {
-"new_pr": "72 days",
+"new_pr": "73 days",
 "existing_pr": "78 days"
 },
 
 "rep_documents": {
 "vos": "24 weeks",
-"replacement": "11 weeks",
-"amend_imm": "35 weeks",
-"amend_tr": "24 weeks"
+"replacement": "5 weeks",
+"amend_imm": "32 weeks",
+"amend_tr": "20 weeks"
 },
 
 
 "caregivers": {
-"childcare": "29 months",
-"childcare_pr": "30 months",
-"supportworker": "26 months",
-"supportworker_pr": "25 months"
+"childcare": "31 months",
+"childcare_pr": "31 months",
+"supportworker": "27 months",
+"supportworker_pr": "27 months"
 }
 }

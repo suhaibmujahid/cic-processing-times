@@ -114,11 +114,10 @@
 "amend_tr": "20 weeks"
 },
 
-
 "caregivers": {
 "childcare": "31 months",
-"childcare_pr": "31 months",
-"supportworker": "27 months",
+"childcare_pr": "27 months",
+"supportworker": "31 months",
 "supportworker_pr": "27 months"
 }
 }

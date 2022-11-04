@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "October 25, 2022"
+"lastupdated": "November 3, 2022"
 },
 
 "visitor-inside-canada": {
-"online": "16 days",
-"paper": "42 days"
+"online": "17 days",
+"paper": "41 days"
 },
 
 "visitor_extension": {
 "online": "203 days",
-"paper": "182 days"
+"paper": "175 days"
 },
 
 "study_permit_outside": {
@@ -18,13 +18,13 @@
 },
 
 "study_extension": {
-"online": "83 days",
-"paper": "76 days"
+"online": "80 days",
+"paper": "71 days"
 },
 
 "work_extension_new_employer": {
 "online": "169 days",
-"paper": "86 days"
+"paper": "84 days"
 },
 
 "iec": {
@@ -37,11 +37,11 @@
 },
 
 "atlantic_immigration": {
-"atlantic_immigration": "15 months"
+"atlantic_immigration": "14 months"
 },
 
 "cec": {
-"cec_ee": "17 months"
+"cec_ee": "19 months"
 },
 
 "quebec_business": {
@@ -49,28 +49,28 @@
 },
 
 "provincial_nominees_back": {
-"provincial_nominees_paper_back": "23 months",
-"provincial_nominees_ee": "15 months"
+"provincial_nominees_paper_back": "22 months",
+"provincial_nominees_ee": "14 months"
 },
 
 "self_employed_federal": {
-"self_employed_federal": "41 months"
+"self_employed_federal": "42 months"
 },
 
 "fed_skilled_workers": {
-"skilled_workers_ee": "26 months"
+"skilled_workers_ee": "27 months"
 },
 
 "fed_skilled_trades": {
-"skilled_trades_ee": "47 months"
+"skilled_trades_ee": "49 months"
 },
 
 "skilled_workers_quebec": {
-"skilled_workers_quebec": "24 months"
+"skilled_workers_quebec": "22 months"
 },
 
 "startup_back": {
-"startup_back": "32 months"
+"startup_back": "31 months"
 },
 
 "spouse_can": {
@@ -78,7 +78,7 @@
 },
 
 "spouse_int": {
-"service_comittment": "22 months"
+"service_comittment": "20 months"
 },
 
 "parent_grandparent_forward": {
@@ -86,38 +86,38 @@
 },
 
 "refugees_protected_back": {
-"refugees_protected_past": "21 months"
+"refugees_protected_past": "20 months"
 },
 
 "humanitarian_compassionate_back": {
-"humanitarian_compassionate_back": "22 months"
+"humanitarian_compassionate_back": "23 months"
 },
 
 "citizenship": {
-"grant_after2015": "25 months",
-"cit_cert": "17 months",
-"cit_resumption": "23 months",
+"grant_after2015": "24 months",
+"cit_cert": "16 months",
+"cit_resumption": "34 months",
 "cit_renunciation": "17 months",
-"cit_search": "16 months",
-"cit_adoption_part1": "Part 1: 12 months"
+"cit_search": "15 months",
+"cit_adoption_part1": "Part 1: 11 months"
 },
 
 "pr_card": {
-"new_pr": "75 days",
-"existing_pr": "92 days"
+"new_pr": "65 days",
+"existing_pr": "93 days"
 },
 
 "rep_documents": {
-"vos": "23 weeks",
+"vos": "22 weeks",
 "replacement": "4 weeks",
-"amend_imm": "30 weeks",
-"amend_tr": "15 weeks"
+"amend_imm": "28 weeks",
+"amend_tr": "11 weeks"
 },
 
 "caregivers": {
-"childcare": "32 months",
+"childcare": "33 months",
 "childcare_pr": "27 months",
-"supportworker": "32 months",
-"supportworker_pr": "29 months"
+"supportworker": "33 months",
+"supportworker_pr": "27 months"
 }
 }

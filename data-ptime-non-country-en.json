@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "November 3, 2022"
+"lastupdated": "November 9, 2022"
 },
 
 "visitor-inside-canada": {
-"online": "17 days",
-"paper": "41 days"
+"online": "18 days",
+"paper": "43 days"
 },
 
 "visitor_extension": {
-"online": "203 days",
-"paper": "175 days"
+"online": "201 days",
+"paper": "173 days"
 },
 
 "study_permit_outside": {
@@ -18,13 +18,13 @@
 },
 
 "study_extension": {
-"online": "80 days",
-"paper": "71 days"
+"online": "78 days",
+"paper": "73 days"
 },
 
 "work_extension_new_employer": {
 "online": "169 days",
-"paper": "84 days"
+"paper": "83 days"
 },
 
 "iec": {
@@ -103,8 +103,8 @@
 },
 
 "pr_card": {
-"new_pr": "65 days",
-"existing_pr": "93 days"
+"new_pr": "102 days",
+"existing_pr": "90 days"
 },
 
 "rep_documents": {

@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "December 20, 2022"
+"lastupdated": "December 29, 2022"
 },
 
 "visitor-inside-canada": {
 "online": "23 days",
-"paper": "53 days"
+"paper": "51 days"
 },
 
 "visitor_extension": {
-"online": "192 days",
-"paper": "162 days"
+"online": "197 days",
+"paper": "161 days"
 },
 
 "study_permit_outside": {
@@ -18,13 +18,13 @@
 },
 
 "study_extension": {
-"online": "97 days",
-"paper": "109 days"
+"online": "118 days",
+"paper": "111 days"
 },
 
 "work_extension_new_employer": {
 "online": "167 days",
-"paper": "75 days"
+"paper": "56 days"
 },
 
 "iec": {
@@ -41,7 +41,7 @@
 },
 
 "cec": {
-"cec_ee": "21 months"
+"cec_ee": "20 months"
 },
 
 "quebec_business": {
@@ -103,8 +103,8 @@
 },
 
 "pr_card": {
-"new_pr": "90 days",
-"existing_pr": "83 days"
+"new_pr": "89 days",
+"existing_pr": "81 days"
 },
 
 "rep_documents": {
@@ -118,10 +118,10 @@
 "childcare": "33 months",
 "childcare_pr": "28 months",
 "supportworker": "33 months",
-"supportworker_pr": "18 months"
+"supportworker_pr": "19 months"
 },
 
 "sawp": {
-"sawp_current": "18 days"
+"sawp_current": "19 days"
 }
 }

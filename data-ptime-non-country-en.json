@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "March 23, 2023"
+"lastupdated": "March 29, 2023"
 },
 
 "visitor-inside-canada": {
@@ -9,27 +9,27 @@
 },
 
 "visitor_extension": {
-"online": "181 days",
+"online": "183 days",
 "paper": "85 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "10 weeks"
+"study_permit_outside": "9 weeks"
 },
 
 "study_extension": {
-"online": "76 days",
+"online": "69 days",
 "paper": "99 days"
 },
 
 "work_extension_new_employer": {
-"online": "151 days",
-"paper": "28 days"
+"online": "148 days",
+"paper": "25 days"
 },
 
 "iec": {
-"iec": "3 weeks",
-"iec_past": "67No processing time available"
+"iec": "4 weeks",
+"iec_past": "66 weeks"
 },
 
 "eta": {
@@ -103,8 +103,8 @@
 },
 
 "pr_card": {
-"new_pr": "32 days",
-"existing_pr": "66 days"
+"new_pr": "29 days",
+"existing_pr": "63 days"
 },
 
 "rep_documents": {
@@ -118,14 +118,18 @@
 "childcare": "35 months",
 "childcare_pr": "31 months",
 "supportworker": "34 months",
-"supportworker_pr": "21 months"
+"supportworker_pr": "23 months"
 },
 
 "sawp": {
-"sawp_current": "21 days"
+"sawp_current": "23 days"
 },
 
 "dependents_protected_persons": {
 "dependents_protected_persons": "43 months"
+},
+
+"atlantic-immigration-program": {
+"atlantic-immigration-program": "4 months"
 }
 }

@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "May 2, 2023"
+"lastupdated": "May 10, 2023"
 },
 
 "visitor-inside-canada": {
-"online": "10 days",
-"paper": "27 days"
+"online": "16 days",
+"paper": "24 days"
 },
 
 "visitor_extension": {
-"online": "164 days",
-"paper": "110 days"
+"online": "151 days",
+"paper": "106 days"
 },
 
 "study_permit_outside": {
@@ -18,17 +18,17 @@
 },
 
 "study_extension": {
-"online": "85 days",
-"paper": "230 days"
+"online": "89 days",
+"paper": "242 days"
 },
 
 "work_extension_new_employer": {
-"online": "134 days",
-"paper": "12 days"
+"online": "138 days",
+"paper": "13 days"
 },
 
 "iec": {
-"iec": "6 weeks",
+"iec": "7 weeks",
 "iec_past": "36 weeks"
 },
 
@@ -70,7 +70,7 @@
 },
 
 "startup_back": {
-"startup_back": "36 months"
+"startup_back": "35 months"
 },
 
 "spouse_can": {
@@ -94,7 +94,7 @@
 },
 
 "citizenship": {
-"grant_after2015": "22 months",
+"grant_after2015": "21 months",
 "cit_cert": "11 months",
 "cit_resumption": "30 months",
 "cit_renunciation": "14 months",
@@ -103,8 +103,8 @@
 },
 
 "pr_card": {
-"new_pr": "36 days",
-"existing_pr": "70 days"
+"new_pr": "37 days",
+"existing_pr": "76 days"
 },
 
 "rep_documents": {
@@ -118,11 +118,11 @@
 "childcare": "36 months",
 "childcare_pr": "30 months",
 "supportworker": "35 months",
-"supportworker_pr": "35 months"
+"supportworker_pr": "38 months"
 },
 
 "sawp": {
-"sawp_current": "35 days"
+"sawp_current": "38 days"
 },
 
 "dependents_protected_persons": {

@@ -1,30 +1,30 @@
 {
 "default-update": {
-"lastupdated": "May 16, 2023"
+"lastupdated": "May 26, 2023"
 },
 
 "visitor-inside-canada": {
 "online": "19 days",
-"paper": "22 days"
+"paper": "25 days"
 },
 
 "visitor_extension": {
-"online": "134 days",
-"paper": "92 days"
+"online": "131 days",
+"paper": "96 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "7 weeks"
+"study_permit_outside": "6 weeks"
 },
 
 "study_extension": {
-"online": "95 days",
-"paper": "242 days"
+"online": "105 days",
+"paper": "245 days"
 },
 
 "work_extension_new_employer": {
 "online": "141 days",
-"paper": "13 days"
+"paper": "14 days"
 },
 
 "iec": {
@@ -54,7 +54,7 @@
 },
 
 "self_employed_federal": {
-"self_employed_federal": "46 months"
+"self_employed_federal": "45 months"
 },
 
 "fed_skilled_workers": {
@@ -103,8 +103,8 @@
 },
 
 "pr_card": {
-"new_pr": "36 days",
-"existing_pr": "83 days"
+"new_pr": "34 days",
+"existing_pr": "89 days"
 },
 
 "rep_documents": {
@@ -118,15 +118,15 @@
 "childcare": "36 months",
 "childcare_pr": "30 months",
 "supportworker": "35 months",
-"supportworker_pr": "40 months"
+"supportworker_pr": "41 months"
 },
 
 "sawp": {
-"sawp_current": "40 days"
+"sawp_current": "41 days"
 },
 
 "dependents_protected_persons": {
-"dependents_protected_persons": "46 months"
+"dependents_protected_persons": "45 months"
 },
 
 "atlantic-immigration-program": {

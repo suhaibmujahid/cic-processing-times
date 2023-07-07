@@ -1,18 +1,18 @@
 {
 "default-update": {
-"lastupdated": "June 22, 2023",
+"lastupdated": "July 6, 2023",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"online": "20 days",
-"paper": "24 days"
+"online": "19 days",
+"paper": "35 days"
 },
 
 "visitor_extension": {
-"online": "144 days",
-"paper": "109 days"
+"online": "148 days",
+"paper": "113 days"
 },
 
 "study_permit_outside": {
@@ -20,13 +20,13 @@
 },
 
 "study_extension": {
-"online": "91 days",
-"paper": "204 days"
+"online": "96 days",
+"paper": "161 days"
 },
 
 "work_extension_new_employer": {
-"online": "141 days",
-"paper": "34 days"
+"online": "142 days",
+"paper": "18 days"
 },
 
 "iec": {
@@ -47,12 +47,12 @@
 },
 
 "quebec_business": {
-"quebec_business": "65 months"
+"quebec_business": "64 months"
 },
 
 "provincial_nominees_back": {
 "provincial_nominees_paper_back": "18 months",
-"provincial_nominees_ee": "10 months"
+"provincial_nominees_ee": "9 months"
 },
 
 "self_employed_federal": {
@@ -60,7 +60,7 @@
 },
 
 "fed_skilled_workers": {
-"skilled_workers_ee": "24 months"
+"skilled_workers_ee": "7 months"
 },
 
 "fed_skilled_trades": {
@@ -72,7 +72,7 @@
 },
 
 "startup_back": {
-"startup_back": "36 months"
+"startup_back": "37 months"
 },
 
 
@@ -88,7 +88,7 @@
 
 
 "spousal_canada_qc": {
-"spousal_canada_qc": "27 months"
+"spousal_canada_qc": "26 months"
 },
 
 "spousal_canada_roc": {
@@ -108,7 +108,7 @@
 },
 
 "pgp_roc": {
-"pgp_roc": "24 months"
+"pgp_roc": "23 months"
 },
 
 "refugees_protected_back": {
@@ -116,39 +116,39 @@
 },
 
 "humanitarian_compassionate_back": {
-"humanitarian_compassionate_back": "21 months"
+"humanitarian_compassionate_back": "20 months"
 },
 
 "citizenship": {
 "grant_after2015": "19 months",
 "cit_cert": "10 months",
 "cit_resumption": "30 months",
-"cit_renunciation": "13 months",
+"cit_renunciation": "14 months",
 "cit_search": "14 months",
-"cit_adoption_part1": "Part 1: 17 months"
+"cit_adoption_part1": "Part 1: 18 months"
 },
 
 "pr_card": {
-"new_pr": "29 days",
+"new_pr": "28 days",
 "existing_pr": "95 days"
 },
 
 "rep_documents": {
 "vos": "21 weeks",
-"replacement": "7 weeks",
-"amend_imm": "24 weeks",
+"replacement": "8 weeks",
+"amend_imm": "26 weeks",
 "amend_tr": "7 weeks"
 },
 
 "caregivers": {
 "childcare": "36 months",
-"childcare_pr": "29 months",
+"childcare_pr": "28 months",
 "supportworker": "35 months",
-"supportworker_pr": "53 months"
+"supportworker_pr": "66 months"
 },
 
 "sawp": {
-"sawp_current": "53 days"
+"sawp_current": "66 days"
 },
 
 "dependents_protected_persons": {
@@ -160,19 +160,19 @@
 },
 
 "adopted_child_global": {
-"adopted_child_global": "42 months"
+"adopted_child_global": "0 months"
 },
 
 "dependent_child_global": {
-"dependent_child_global": "18 months"
+"dependent_child_global": "0 months"
 },
 
 "supervisa_global": {
-"supervisa_global": "172 days"
+"supervisa_global": "6 days"
 },
 
 "gar_global": {
-"gar_global": "30 months"
+"gar_global": "0 months"
 },
 
 "psr_global": {

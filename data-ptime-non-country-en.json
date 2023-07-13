@@ -1,18 +1,18 @@
 {
 "default-update": {
-"lastupdated": "July 6, 2023",
+"lastupdated": "July 12, 2023",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"online": "19 days",
+"online": "17 days",
 "paper": "35 days"
 },
 
 "visitor_extension": {
-"online": "148 days",
-"paper": "113 days"
+"online": "153 days",
+"paper": "128 days"
 },
 
 "study_permit_outside": {
@@ -20,17 +20,17 @@
 },
 
 "study_extension": {
-"online": "96 days",
-"paper": "161 days"
+"online": "94 days",
+"paper": "148 days"
 },
 
 "work_extension_new_employer": {
-"online": "142 days",
+"online": "145 days",
 "paper": "18 days"
 },
 
 "iec": {
-"iec": "9 weeks",
+"iec": "10 weeks",
 "iec_past": "112 weeks"
 },
 
@@ -168,7 +168,7 @@
 },
 
 "supervisa_global": {
-"supervisa_global": "6 days"
+"supervisa_global": "4 days"
 },
 
 "gar_global": {

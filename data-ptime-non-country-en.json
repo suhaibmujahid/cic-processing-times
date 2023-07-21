@@ -1,36 +1,36 @@
 {
 "default-update": {
-"lastupdated": "July 12, 2023",
+"lastupdated": "July 19, 2023",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"online": "17 days",
-"paper": "35 days"
+"online": "18 days",
+"paper": "31 days"
 },
 
 "visitor_extension": {
-"online": "153 days",
+"online": "150 days",
 "paper": "128 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "6 weeks"
+"study_permit_outside": "7 weeks"
 },
 
 "study_extension": {
-"online": "94 days",
-"paper": "148 days"
+"online": "88 days",
+"paper": "133 days"
 },
 
 "work_extension_new_employer": {
-"online": "145 days",
-"paper": "18 days"
+"online": "147 days",
+"paper": "14 days"
 },
 
 "iec": {
-"iec": "10 weeks",
+"iec": "11 weeks",
 "iec_past": "112 weeks"
 },
 
@@ -144,15 +144,15 @@
 "childcare": "36 months",
 "childcare_pr": "28 months",
 "supportworker": "35 months",
-"supportworker_pr": "66 months"
+"supportworker_pr": "29 months"
 },
 
 "sawp": {
-"sawp_current": "66 days"
+"sawp_current": "70 days"
 },
 
 "dependents_protected_persons": {
-"dependents_protected_persons": "43 months"
+"dependents_protected_persons": "44 months"
 },
 
 "atlantic-immigration-program": {
@@ -168,7 +168,7 @@
 },
 
 "supervisa_global": {
-"supervisa_global": "4 days"
+"supervisa_global": "7 days"
 },
 
 "gar_global": {

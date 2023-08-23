@@ -1,18 +1,18 @@
 {
 "default-update": {
-"lastupdated": "August 9, 2023",
+"lastupdated": "August 22, 2023",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"online": "18 days",
-"paper": "31 days"
+"online": "17 days",
+"paper": "34 days"
 },
 
 "visitor_extension": {
-"online": "89 days",
-"paper": "125 days"
+"online": "83 days",
+"paper": "123 days"
 },
 
 "study_permit_outside": {
@@ -20,18 +20,18 @@
 },
 
 "study_extension": {
-"online": "74 days",
-"paper": "122 days"
+"online": "71 days",
+"paper": "101 days"
 },
 
 "work_extension_new_employer": {
-"online": "145 days",
-"paper": "15 days"
+"online": "141 days",
+"paper": "19 days"
 },
 
 "iec": {
-"iec": "11 weeks",
-"iec_past": "112 weeks"
+"iec": "9 weeks",
+"iec_past": "Not enough data"
 },
 
 "eta": {
@@ -75,18 +75,6 @@
 "startup_back": "37 months"
 },
 
-
-
-
-
-
-
-
-
-
-
-
-
 "spousal_canada_qc": {
 "spousal_canada_qc": "25 months"
 },
@@ -129,8 +117,8 @@
 },
 
 "pr_card": {
-"new_pr": "34 days",
-"existing_pr": "91 days"
+"new_pr": "36 days",
+"existing_pr": "83 days"
 },
 
 "rep_documents": {
@@ -148,7 +136,7 @@
 },
 
 "sawp": {
-"sawp_current": "77 days"
+"sawp_current": "84 days"
 },
 
 "dependents_protected_persons": {
@@ -160,7 +148,7 @@
 },
 
 "adopted_child_global": {
-"adopted_child_global": "33 months"
+"adopted_child_global": "32 months"
 },
 
 "dependent_child_global": {
@@ -168,7 +156,7 @@
 },
 
 "supervisa_global": {
-"supervisa_global": "129 days"
+"supervisa_global": "328 days"
 },
 
 "gar_global": {

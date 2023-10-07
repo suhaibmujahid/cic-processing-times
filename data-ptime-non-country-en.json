@@ -1,18 +1,18 @@
 {
 "default-update": {
-"lastupdated": "September 28, 2023",
+"lastupdated": "October 6, 2023",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
 "online": "14 days",
-"paper": "47 days"
+"paper": "49 days"
 },
 
 "visitor_extension": {
-"online": "49 days",
-"paper": "91 days"
+"online": "50 days",
+"paper": "84 days"
 },
 
 "study_permit_outside": {
@@ -20,18 +20,18 @@
 },
 
 "study_extension": {
-"online": "87 days",
-"paper": "91 days"
+"online": "95 days",
+"paper": "90 days"
 },
 
 "work_extension_new_employer": {
-"online": "127 days",
-"paper": "33 days"
+"online": "131 days",
+"paper": "21 days"
 },
 
 "iec": {
-"iec": "7 weeks",
-"iec_past": "Not enough data"
+"iec": "6 weeks",
+"iec_past": "59 weeks"
 },
 
 "eta": {
@@ -56,7 +56,7 @@
 },
 
 "self_employed_federal": {
-"self_employed_federal": "52 months"
+"self_employed_federal": "53 months"
 },
 
 "fed_skilled_workers": {
@@ -68,7 +68,7 @@
 },
 
 "skilled_workers_quebec": {
-"skilled_workers_quebec": "15 months"
+"skilled_workers_quebec": "14 months"
 },
 
 "startup_back": {
@@ -84,7 +84,7 @@
 },
 
 "spousal_abroad_qc": {
-"spousal_abroad_qc": "24 months"
+"spousal_abroad_qc": "27 months"
 },
 
 "spousal_abroad_roc": {
@@ -92,7 +92,7 @@
 },
 
 "pgp_qc": {
-"pgp_qc": "46 months"
+"pgp_qc": "47 months"
 },
 
 "pgp_roc": {
@@ -100,7 +100,7 @@
 },
 
 "refugees_protected_back": {
-"refugees_protected_past": "22 months"
+"refugees_protected_past": "23 months"
 },
 
 "humanitarian_compassionate_back": {
@@ -108,39 +108,39 @@
 },
 
 "citizenship": {
-"grant_after2015": "18 months",
-"cit_cert": "9 months",
+"grant_after2015": "17 months",
+"cit_cert": "10 months",
 "cit_resumption": "Not enough data",
 "cit_renunciation": "15 months",
 "cit_search": "15 months",
-"cit_adoption_part1": "Part 1: 19 months"
+"cit_adoption_part1": "Part 1: 15 months"
 },
 
 "pr_card": {
-"new_pr": "58 days",
-"existing_pr": "74 days"
+"new_pr": "59 days",
+"existing_pr": "88 days"
 },
 
 "rep_documents": {
-"vos": "22 weeks",
-"replacement": "9 weeks",
-"amend_imm": "27 weeks",
-"amend_tr": "13 weeks"
+"vos": "25 weeks",
+"replacement": "10 weeks",
+"amend_imm": "28 weeks",
+"amend_tr": "12 weeks"
 },
 
 "caregivers": {
 "childcare": "35 months",
-"childcare_pr": "28 months",
+"childcare_pr": "29 months",
 "supportworker": "33 months",
 "supportworker_pr": "29 months"
 },
 
 "sawp": {
-"sawp_current": "109 days"
+"sawp_current": "110 days"
 },
 
 "dependents_protected_persons": {
-"dependents_protected_persons": "46 months"
+"dependents_protected_persons": "47 months"
 },
 
 "atlantic-immigration-program": {
@@ -156,11 +156,11 @@
 },
 
 "supervisa_global": {
-"supervisa_global": "94 days"
+"supervisa_global": "0 days"
 },
 
 "gar_global": {
-"gar_global": "0 months"
+"gar_global": "Suppressed months"
 },
 
 "psr_global": {

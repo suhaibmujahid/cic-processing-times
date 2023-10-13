@@ -1,37 +1,37 @@
 {
 "default-update": {
-"lastupdated": "October 6, 2023",
+"lastupdated": "October 11, 2023",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
 "online": "14 days",
-"paper": "49 days"
+"paper": "48 days"
 },
 
 "visitor_extension": {
-"online": "50 days",
-"paper": "84 days"
+"online": "60 days",
+"paper": "83 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "8 weeks"
+"study_permit_outside": "9 weeks"
 },
 
 "study_extension": {
-"online": "95 days",
-"paper": "90 days"
+"online": "102 days",
+"paper": "88 days"
 },
 
 "work_extension_new_employer": {
-"online": "131 days",
-"paper": "21 days"
+"online": "132 days",
+"paper": "30 days"
 },
 
 "iec": {
 "iec": "6 weeks",
-"iec_past": "59 weeks"
+"iec_past": "60 weeks"
 },
 
 "eta": {
@@ -117,8 +117,8 @@
 },
 
 "pr_card": {
-"new_pr": "59 days",
-"existing_pr": "88 days"
+"new_pr": "61 days",
+"existing_pr": "93 days"
 },
 
 "rep_documents": {
@@ -136,7 +136,7 @@
 },
 
 "sawp": {
-"sawp_current": "110 days"
+"sawp_current": "112 days"
 },
 
 "dependents_protected_persons": {

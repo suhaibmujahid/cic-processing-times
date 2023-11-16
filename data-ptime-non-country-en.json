@@ -1,31 +1,31 @@
 {
     "default-update": {
-        "lastupdated": "November 7, 2023",
+        "lastupdated": "November 15, 2023",
         "flpt_lastupdated": "June 6, 2023",
         "flpt_interval": " monthly"
     },
     "visitor-inside-canada": {
-        "online": "14 days",
-        "paper": "59 days"
+        "online": "13 days",
+        "paper": "39 days"
     },
     "visitor_extension": {
-        "online": "91 days",
-        "paper": "114 days"
+        "online": "98 days",
+        "paper": "106 days"
     },
     "study_permit_outside": {
         "study_permit_outside": "11 weeks"
     },
     "study_extension": {
         "online": "139 days",
-        "paper": "63 days"
+        "paper": "59 days"
     },
     "work_extension_new_employer": {
-        "online": "137 days",
-        "paper": "17 days"
+        "online": "136 days",
+        "paper": "14 days"
     },
     "iec": {
         "iec": "4 weeks",
-        "iec_past": "65 weeks"
+        "iec_past": "62 weeks"
     },
     "eta": {
         "eta": "5 minutes"
@@ -71,7 +71,7 @@
         "spousal_abroad_roc": "13 months"
     },
     "pgp_qc": {
-        "pgp_qc": "48 months"
+        "pgp_qc": "47 months"
     },
     "pgp_roc": {
         "pgp_roc": "22 months"
@@ -91,8 +91,8 @@
         "cit_adoption_part1": "Part 1: 14 months"
     },
     "pr_card": {
-        "new_pr": "66 days",
-        "existing_pr": "84 days"
+        "new_pr": "67 days",
+        "existing_pr": "81 days"
     },
     "rep_documents": {
         "vos": "28 weeks",

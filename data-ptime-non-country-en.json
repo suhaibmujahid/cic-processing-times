@@ -1,31 +1,31 @@
 {
     "default-update": {
-        "lastupdated": "November 15, 2023",
+        "lastupdated": "November 21, 2023",
         "flpt_lastupdated": "June 6, 2023",
         "flpt_interval": " monthly"
     },
     "visitor-inside-canada": {
         "online": "13 days",
-        "paper": "39 days"
+        "paper": "36 days"
     },
     "visitor_extension": {
-        "online": "98 days",
-        "paper": "106 days"
+        "online": "99 days",
+        "paper": "155 days"
     },
     "study_permit_outside": {
         "study_permit_outside": "11 weeks"
     },
     "study_extension": {
-        "online": "139 days",
-        "paper": "59 days"
+        "online": "136 days",
+        "paper": "62 days"
     },
     "work_extension_new_employer": {
-        "online": "136 days",
-        "paper": "14 days"
+        "online": "135 days",
+        "paper": "17 days"
     },
     "iec": {
         "iec": "4 weeks",
-        "iec_past": "62 weeks"
+        "iec_past": "54 weeks"
     },
     "eta": {
         "eta": "5 minutes"
@@ -91,8 +91,8 @@
         "cit_adoption_part1": "Part 1: 14 months"
     },
     "pr_card": {
-        "new_pr": "67 days",
-        "existing_pr": "81 days"
+        "new_pr": "68 days",
+        "existing_pr": "78 days"
     },
     "rep_documents": {
         "vos": "28 weeks",
@@ -102,12 +102,12 @@
     },
     "caregivers": {
         "childcare": "35 months",
-        "childcare_pr": "30 months",
+        "childcare_pr": "31 months",
         "supportworker": "32 months",
         "supportworker_pr": "30 months"
     },
     "sawp": {
-        "sawp_current": "15 days"
+        "sawp_current": "14 days"
     },
     "dependents_protected_persons": {
         "dependents_protected_persons": "48 months"
@@ -125,7 +125,7 @@
         "supervisa_global": "0 days"
     },
     "gar_global": {
-        "gar_global": "0 months"
+        "gar_global": "9 months"
     },
     "psr_global": {
         "psr_sponsorship": "16 months",

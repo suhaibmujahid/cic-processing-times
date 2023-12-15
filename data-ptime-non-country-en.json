@@ -1,6 +1,6 @@
 {
     "default-update": {
-        "lastupdated": "December 5, 2023",
+        "lastupdated": "December 13, 2023",
         "flpt_lastupdated": "June 6, 2023",
         "flpt_interval": " monthly"
     },
@@ -9,19 +9,19 @@
         "paper": "33 days"
     },
     "visitor_extension": {
-        "online": "82 days",
-        "paper": "126 days"
+        "online": "80 days",
+        "paper": "113 days"
     },
     "study_permit_outside": {
-        "study_permit_outside": "10 weeks"
+        "study_permit_outside": "9 weeks"
     },
     "study_extension": {
-        "online": "131 days",
-        "paper": "63 days"
+        "online": "129 days",
+        "paper": "71 days"
     },
     "work_extension_new_employer": {
-        "online": "130 days",
-        "paper": "17 days"
+        "online": "129 days",
+        "paper": "15 days"
     },
     "iec": {
         "iec": "4 weeks",
@@ -65,13 +65,13 @@
         "spousal_canada_roc": "10 months"
     },
     "spousal_abroad_qc": {
-        "spousal_abroad_qc": "41 months"
+        "spousal_abroad_qc": "42 months"
     },
     "spousal_abroad_roc": {
         "spousal_abroad_roc": "12 months"
     },
     "pgp_qc": {
-        "pgp_qc": "47 months"
+        "pgp_qc": "48 months"
     },
     "pgp_roc": {
         "pgp_roc": "23 months"
@@ -91,8 +91,8 @@
         "cit_adoption_part1": "Part 1: 14 months"
     },
     "pr_card": {
-        "new_pr": "66 days",
-        "existing_pr": "71 days"
+        "new_pr": "65 days",
+        "existing_pr": "68 days"
     },
     "rep_documents": {
         "vos": "30 weeks",
@@ -107,7 +107,7 @@
         "supportworker_pr": "30 months"
     },
     "sawp": {
-        "sawp_current": "17 days"
+        "sawp_current": "20 days"
     },
     "dependents_protected_persons": {
         "dependents_protected_persons": "48 months"
@@ -125,7 +125,7 @@
         "supervisa_global": "0 days"
     },
     "gar_global": {
-        "gar_global": "10 months"
+        "gar_global": "48 months"
     },
     "psr_global": {
         "psr_sponsorship": "16 months",

@@ -1,31 +1,35 @@
 {
     "default-update": {
-        "lastupdated": "December 13, 2023",
+        "lastupdated": "December 20, 2023",
         "flpt_lastupdated": "June 6, 2023",
         "flpt_interval": " monthly"
     },
     "visitor-inside-canada": {
         "online": "13 days",
-        "paper": "33 days"
+        "paper": "25 days",
+        "overall": "13 days"
     },
     "visitor_extension": {
-        "online": "80 days",
-        "paper": "113 days"
+        "online": "79 days",
+        "paper": "107 days",
+        "overall": "79 days"
     },
     "study_permit_outside": {
         "study_permit_outside": "9 weeks"
     },
     "study_extension": {
-        "online": "129 days",
-        "paper": "71 days"
+        "online": "123 days",
+        "paper": "67 days",
+        "overall": "123 days"
     },
     "work_extension_new_employer": {
-        "online": "129 days",
-        "paper": "15 days"
+        "online": "127 days",
+        "paper": "14 days",
+        "overall": "122 days"
     },
     "iec": {
         "iec": "4 weeks",
-        "iec_past": "54 weeks"
+        "iec_past": "7 weeks"
     },
     "eta": {
         "eta": "5 minutes"
@@ -91,8 +95,8 @@
         "cit_adoption_part1": "Part 1: 14 months"
     },
     "pr_card": {
-        "new_pr": "65 days",
-        "existing_pr": "68 days"
+        "new_pr": "58 days",
+        "existing_pr": "65 days"
     },
     "rep_documents": {
         "vos": "30 weeks",
@@ -107,7 +111,7 @@
         "supportworker_pr": "30 months"
     },
     "sawp": {
-        "sawp_current": "20 days"
+        "sawp_current": "26 days"
     },
     "dependents_protected_persons": {
         "dependents_protected_persons": "48 months"

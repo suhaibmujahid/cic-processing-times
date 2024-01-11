@@ -1,35 +1,35 @@
 {
     "default-update": {
-        "lastupdated": "January 2, 2024",
+        "lastupdated": "January 9, 2024",
         "flpt_lastupdated": "June 6, 2023",
         "flpt_interval": " monthly"
     },
     "visitor-inside-canada": {
-        "online": "15 days",
-        "paper": "34 days",
-        "overall": "16 days"
+        "online": "16 days",
+        "paper": "37 days",
+        "overall": "17 days"
     },
     "visitor_extension": {
-        "online": "67 days",
-        "paper": "96 days",
+        "online": "69 days",
+        "paper": "104 days",
         "overall": "70 days"
     },
     "study_permit_outside": {
         "study_permit_outside": "8 weeks"
     },
     "study_extension": {
-        "online": "77 days",
-        "paper": "83 days",
+        "online": "76 days",
+        "paper": "92 days",
         "overall": "77 days"
     },
     "work_extension_new_employer": {
-        "online": "120 days",
+        "online": "119 days",
         "paper": "14 days",
-        "overall": "113 days"
+        "overall": "112 days"
     },
     "iec": {
         "iec": "5 weeks",
-        "iec_past": "61 weeks"
+        "iec_past": "56 weeks"
     },
     "eta": {
         "eta": "5 minutes"
@@ -95,8 +95,8 @@
         "cit_adoption_part1": "Part 1: 15 months"
     },
     "pr_card": {
-        "new_pr": "29 days",
-        "existing_pr": "61 days"
+        "new_pr": "16 days",
+        "existing_pr": "59 days"
     },
     "rep_documents": {
         "vos": "30 weeks",
@@ -111,7 +111,7 @@
         "supportworker_pr": "31 months"
     },
     "sawp": {
-        "sawp_current": "25 days"
+        "sawp_current": "26 days"
     },
     "dependents_protected_persons": {
         "dependents_protected_persons": "48 months"
@@ -126,7 +126,7 @@
         "dependent_child_global": "0 months"
     },
     "supervisa_global": {
-        "supervisa_global": "0 days"
+        "supervisa_global": "169 days"
     },
     "gar_global": {
         "gar_global": "0 months"

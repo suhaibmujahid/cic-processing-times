@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "February 20, 2024",
+"lastupdated": "February 28, 2024",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"overall": "15 days"
+"overall": "14 days"
 },
 
 "visitor_extension": {
-"overall": "74 days"
+"overall": "73 days"
 },
 
 "study_permit_outside": {
@@ -18,7 +18,7 @@
 },
 
 "study_extension": {
-"overall": "76 days"
+"overall": "75 days"
 },
 
 "work_extension_new_employer": {
@@ -26,8 +26,8 @@
 },
 
 "iec": {
-"iec": "2 weeks",
-"iec_past": "64 weeks"
+"iec": "3 weeks",
+"iec_past": "Not enough data"
 },
 
 "eta": {
@@ -96,7 +96,7 @@
 },
 
 "refugees_protected_back": {
-"refugees_protected_past": "28 months"
+"refugees_protected_past": "27 months"
 },
 
 "humanitarian_compassionate_back": {
@@ -113,8 +113,8 @@
 },
 
 "pr_card": {
-"new_pr": "34 days",
-"existing_pr": "65 days"
+"new_pr": "35 days",
+"existing_pr": "66 days"
 },
 
 "rep_documents": {
@@ -132,7 +132,7 @@
 },
 
 "sawp": {
-"sawp_current": "19 days"
+"sawp_current": "20 days"
 },
 
 "dependents_protected_persons": {

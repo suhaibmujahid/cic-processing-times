@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "March 5, 2024",
+"lastupdated": "March 12, 2024",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"overall": "12 days"
+"overall": "11 days"
 },
 
 "visitor_extension": {
-"overall": "73 days"
+"overall": "75 days"
 },
 
 "study_permit_outside": {
@@ -18,11 +18,11 @@
 },
 
 "study_extension": {
-"overall": "75 days"
+"overall": "77 days"
 },
 
 "work_extension_new_employer": {
-"overall": "99 days"
+"overall": "97 days"
 },
 
 "iec": {
@@ -43,7 +43,7 @@
 },
 
 "quebec_business": {
-"quebec_business": "58 months"
+"quebec_business": "57 months"
 },
 
 "provincial_nominees_back": {
@@ -113,8 +113,8 @@
 },
 
 "pr_card": {
-"new_pr": "38 days",
-"existing_pr": "65 days"
+"new_pr": "45 days",
+"existing_pr": "63 days"
 },
 
 "rep_documents": {
@@ -132,7 +132,7 @@
 },
 
 "sawp": {
-"sawp_current": "17 days"
+"sawp_current": "18 days"
 },
 
 "dependents_protected_persons": {
@@ -144,7 +144,7 @@
 },
 
 "adopted_child_global": {
-"adopted_child_global": "5 months"
+"adopted_child_global": "0 months"
 },
 
 "dependent_child_global": {
@@ -227,5 +227,4 @@
 "wp_flpt": {
 "wp_flpt": "60 days"
 }
-
 }

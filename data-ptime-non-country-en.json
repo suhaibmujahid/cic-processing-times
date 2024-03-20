@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "March 12, 2024",
+"lastupdated": "March 19, 2024",
 "flpt_lastupdated": "June 6, 2023",
 "flpt_interval": " monthly"
 },
@@ -10,19 +10,19 @@
 },
 
 "visitor_extension": {
-"overall": "75 days"
+"overall": "72 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "10 weeks"
+"study_permit_outside": "11 weeks"
 },
 
 "study_extension": {
-"overall": "77 days"
+"overall": "87 days"
 },
 
 "work_extension_new_employer": {
-"overall": "97 days"
+"overall": "98 days"
 },
 
 "iec": {
@@ -113,7 +113,7 @@
 },
 
 "pr_card": {
-"new_pr": "45 days",
+"new_pr": "46 days",
 "existing_pr": "63 days"
 },
 
@@ -132,7 +132,7 @@
 },
 
 "sawp": {
-"sawp_current": "18 days"
+"sawp_current": "21 days"
 },
 
 "dependents_protected_persons": {
@@ -152,7 +152,7 @@
 },
 
 "supervisa_global": {
-"supervisa_global": "0 days"
+"supervisa_global": "56 days"
 },
 
 "gar_global": {
@@ -227,4 +227,5 @@
 "wp_flpt": {
 "wp_flpt": "60 days"
 }
+
 }

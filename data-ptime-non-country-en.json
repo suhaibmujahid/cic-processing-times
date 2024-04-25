@@ -1,32 +1,32 @@
 {
 "default-update": {
-"lastupdated": "April 16, 2024",
-"flpt_lastupdated": "June 6, 2023",
+"lastupdated": "April 23, 2024",
+"flpt_lastupdated": "April 23, 2024",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"overall": "17 days"
+"overall": "20 days"
 },
 
 "visitor_extension": {
-"overall": "73 days"
+"overall": "75 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "13 weeks"
+"study_permit_outside": "14 weeks"
 },
 
 "study_extension": {
-"overall": "64 days"
+"overall": "60 days"
 },
 
 "work_extension_new_employer": {
-"overall": "95 days"
+"overall": "92 days"
 },
 
 "iec": {
-"iec": "4 weeks",
+"iec": "5 weeks",
 "iec_past": "Not enough data"
 },
 
@@ -88,7 +88,7 @@
 },
 
 "pgp_qc": {
-"pgp_qc": "38 months"
+"pgp_qc": "37 months"
 },
 
 "pgp_roc": {
@@ -114,7 +114,7 @@
 
 "pr_card": {
 "new_pr": "48 days",
-"existing_pr": "57 days"
+"existing_pr": "56 days"
 },
 
 "rep_documents": {
@@ -132,7 +132,7 @@
 },
 
 "sawp": {
-"sawp_current": "35 days"
+"sawp_current": "38 days"
 },
 
 "dependents_protected_persons": {
@@ -143,29 +143,9 @@
 "atlantic-immigration-program": "6 months"
 },
 
-"adopted_child_global": {
-"adopted_child_global": "0 months"
-},
-
-"dependent_child_global": {
-"dependent_child_global": "0 months"
-},
-
-"supervisa_global": {
-"supervisa_global": "0 days"
-},
-
-"gar_global": {
-"gar_global": "0 months"
-},
-
-"psr_global": {
-"psr_sponsorship": "16 months",
-"psr_refugee": "34 months"
-},
 
 "cec_flpt": {
-"cec_flpt": "6 months"
+"cec_flpt": "5 months"
 },
 
 "pnp_ee_flpt": {
@@ -177,19 +157,19 @@
 },
 
 "fsw_ee_flpt": {
-"fsw_ee_flpt": "6 months"
+"fsw_ee_flpt": "5 months"
 },
 
 "skilled_workers_qc_flpt": {
-"skilled_workers_qc_flpt": "11 months"
+"skilled_workers_qc_flpt": "9 months"
 },
 
 "cit_grant_flpt": {
-"cit_grant_flpt": "12 months"
+"cit_grant_flpt": "8 months"
 },
 
 "cit_proof_flpt": {
-"cit_proof_flpt": "9 months"
+"cit_proof_flpt": "3 months"
 },
 
 "spousal_canada_qc_flpt": {
@@ -197,35 +177,23 @@
 },
 
 "spousal_canada_roc_flpt": {
-"spousal_canada_roc_flpt": "12 months"
+"spousal_canada_roc_flpt": "11 months"
 },
 
 "spousal_outside_qc_flpt": {
-"spousal_outside_qc_flpt": "27 months"
+"spousal_outside_qc_flpt": "34 months"
 },
 
 "spousal_outside_roc_flpt": {
-"spousal_outside_roc_flpt": "12 months"
+"spousal_outside_roc_flpt": "13 months"
 },
 
 "pgp_qc_flpt": {
-"pgp_qc_flpt": "48 months"
+"pgp_qc_flpt": "33 months"
 },
 
 "pgp_roc_flpt": {
-"pgp_roc_flpt": "23 months"
-},
-
-"trv_flpt": {
-"trv_flpt": "50 days"
-},
-
-"sp_flpt": {
-"sp_flpt": "60 days"
-},
-
-"wp_flpt": {
-"wp_flpt": "60 days"
+"pgp_roc_flpt": "20 months"
 }
 
 }

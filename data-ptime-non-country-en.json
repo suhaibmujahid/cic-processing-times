@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "April 23, 2024",
-"flpt_lastupdated": "April 23, 2024",
+"lastupdated": "April 30, 2024",
+"flpt_lastupdated": "May 1, 2024",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"overall": "20 days"
+"overall": "23 days"
 },
 
 "visitor_extension": {
-"overall": "75 days"
+"overall": "76 days"
 },
 
 "study_permit_outside": {
@@ -18,7 +18,7 @@
 },
 
 "study_extension": {
-"overall": "60 days"
+"overall": "55 days"
 },
 
 "work_extension_new_employer": {
@@ -132,7 +132,7 @@
 },
 
 "sawp": {
-"sawp_current": "38 days"
+"sawp_current": "43 days"
 },
 
 "dependents_protected_persons": {

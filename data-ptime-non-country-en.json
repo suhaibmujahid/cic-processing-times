@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "April 30, 2024",
+"lastupdated": "May 7, 2024",
 "flpt_lastupdated": "May 1, 2024",
 "flpt_interval": " monthly"
 },
@@ -10,23 +10,23 @@
 },
 
 "visitor_extension": {
-"overall": "76 days"
+"overall": "77 days"
 },
 
 "study_permit_outside": {
-"study_permit_outside": "14 weeks"
+"study_permit_outside": "15 weeks"
 },
 
 "study_extension": {
-"overall": "55 days"
+"overall": "53 days"
 },
 
 "work_extension_new_employer": {
-"overall": "92 days"
+"overall": "94 days"
 },
 
 "iec": {
-"iec": "5 weeks",
+"iec": "6 weeks",
 "iec_past": "Not enough data"
 },
 
@@ -43,16 +43,16 @@
 },
 
 "quebec_business": {
-"quebec_business": "54 months"
+"quebec_business": "48 months"
 },
 
 "provincial_nominees_back": {
 "provincial_nominees_paper_back": "12 months",
-"provincial_nominees_ee": "6 months"
+"provincial_nominees_ee": "5 months"
 },
 
 "self_employed_federal": {
-"self_employed_federal": "52 months"
+"self_employed_federal": "51 months"
 },
 
 "fed_skilled_workers": {
@@ -64,7 +64,7 @@
 },
 
 "skilled_workers_quebec": {
-"skilled_workers_quebec": "9 months"
+"skilled_workers_quebec": "8 months"
 },
 
 "startup_back": {
@@ -72,7 +72,7 @@
 },
 
 "spousal_canada_qc": {
-"spousal_canada_qc": "24 months"
+"spousal_canada_qc": "23 months"
 },
 
 "spousal_canada_roc": {
@@ -80,7 +80,7 @@
 },
 
 "spousal_abroad_qc": {
-"spousal_abroad_qc": "28 months"
+"spousal_abroad_qc": "27 months"
 },
 
 "spousal_abroad_roc": {
@@ -100,12 +100,12 @@
 },
 
 "humanitarian_compassionate_back": {
-"humanitarian_compassionate_back": "21 months"
+"humanitarian_compassionate_back": "24 months"
 },
 
 "citizenship": {
 "grant_after2015": "14 months",
-"cit_cert": "7 months",
+"cit_cert": "6 months",
 "cit_resumption": "Not enough data",
 "cit_renunciation": "13 months",
 "cit_search": "13 months",
@@ -113,30 +113,30 @@
 },
 
 "pr_card": {
-"new_pr": "48 days",
+"new_pr": "67 days",
 "existing_pr": "56 days"
 },
 
 "rep_documents": {
 "vos": "30 weeks",
 "replacement": "5 weeks",
-"amend_imm": "29 weeks",
+"amend_imm": "27 weeks",
 "amend_tr": "5 weeks"
 },
 
 "caregivers": {
-"childcare": "35 months",
+"childcare": "36 months",
 "childcare_pr": "26 months",
-"supportworker": "32 months",
-"supportworker_pr": "31 months"
+"supportworker": "31 months",
+"supportworker_pr": "33 months"
 },
 
 "sawp": {
-"sawp_current": "43 days"
+"sawp_current": "45 days"
 },
 
 "dependents_protected_persons": {
-"dependents_protected_persons": "47 months"
+"dependents_protected_persons": "48 months"
 },
 
 "atlantic-immigration-program": {

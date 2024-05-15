@@ -1,16 +1,16 @@
 {
 "default-update": {
-"lastupdated": "May 7, 2024",
+"lastupdated": "May 14, 2024",
 "flpt_lastupdated": "May 1, 2024",
 "flpt_interval": " monthly"
 },
 
 "visitor-inside-canada": {
-"overall": "23 days"
+"overall": "25 days"
 },
 
 "visitor_extension": {
-"overall": "77 days"
+"overall": "84 days"
 },
 
 "study_permit_outside": {
@@ -18,11 +18,11 @@
 },
 
 "study_extension": {
-"overall": "53 days"
+"overall": "45 days"
 },
 
 "work_extension_new_employer": {
-"overall": "94 days"
+"overall": "91 days"
 },
 
 "iec": {
@@ -88,7 +88,7 @@
 },
 
 "pgp_qc": {
-"pgp_qc": "37 months"
+"pgp_qc": "36 months"
 },
 
 "pgp_roc": {
@@ -113,8 +113,8 @@
 },
 
 "pr_card": {
-"new_pr": "67 days",
-"existing_pr": "56 days"
+"new_pr": "72 days",
+"existing_pr": "60 days"
 },
 
 "rep_documents": {
@@ -132,7 +132,7 @@
 },
 
 "sawp": {
-"sawp_current": "45 days"
+"sawp_current": "47 days"
 },
 
 "dependents_protected_persons": {

@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "May 14, 2024",
+"lastupdated": "May 21, 2024",
 "flpt_lastupdated": "May 1, 2024",
 "flpt_interval": " monthly"
 },
@@ -10,7 +10,7 @@
 },
 
 "visitor_extension": {
-"overall": "84 days"
+"overall": "89 days"
 },
 
 "study_permit_outside": {
@@ -18,16 +18,16 @@
 },
 
 "study_extension": {
-"overall": "45 days"
+"overall": "44 days"
 },
 
 "work_extension_new_employer": {
-"overall": "91 days"
+"overall": "90 days"
 },
 
 "iec": {
 "iec": "6 weeks",
-"iec_past": "Not enough data"
+"iec_past": "103 weeks"
 },
 
 "eta": {
@@ -113,8 +113,8 @@
 },
 
 "pr_card": {
-"new_pr": "72 days",
-"existing_pr": "60 days"
+"new_pr": "77 days",
+"existing_pr": "65 days"
 },
 
 "rep_documents": {
@@ -132,7 +132,7 @@
 },
 
 "sawp": {
-"sawp_current": "47 days"
+"sawp_current": "49 days"
 },
 
 "dependents_protected_persons": {

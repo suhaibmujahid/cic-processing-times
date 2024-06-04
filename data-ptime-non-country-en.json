@@ -1,7 +1,7 @@
 {
 "default-update": {
 "lastupdated": "May 28, 2024",
-"flpt_lastupdated": "May 1, 2024",
+"flpt_lastupdated": "June 3, 2024",
 "flpt_interval": " monthly"
 },
 
@@ -173,11 +173,11 @@
 },
 
 "spousal_canada_qc_flpt": {
-"spousal_canada_qc_flpt": "27 months"
+"spousal_canada_qc_flpt": "28 months"
 },
 
 "spousal_canada_roc_flpt": {
-"spousal_canada_roc_flpt": "11 months"
+"spousal_canada_roc_flpt": "10 months"
 },
 
 "spousal_outside_qc_flpt": {
@@ -185,15 +185,15 @@
 },
 
 "spousal_outside_roc_flpt": {
-"spousal_outside_roc_flpt": "13 months"
+"spousal_outside_roc_flpt": "10 months"
 },
 
 "pgp_qc_flpt": {
-"pgp_qc_flpt": "33 months"
+"pgp_qc_flpt": "48 months"
 },
 
 "pgp_roc_flpt": {
-"pgp_roc_flpt": "20 months"
+"pgp_roc_flpt": "24 months"
 }
 
 }

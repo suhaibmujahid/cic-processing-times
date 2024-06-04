@@ -1,5 +1,5 @@
 service,time,lastupdated
-default-update / flpt_lastupdated,"May 1, 2024","May 28, 2024"
+default-update / flpt_lastupdated,"June 3, 2024","May 28, 2024"
 default-update / flpt_interval, monthly,"May 28, 2024"
 visitor-inside-canada / overall,24 days,
 visitor_extension / overall,83 days,
@@ -53,9 +53,9 @@ fsw_ee_flpt / fsw_ee_flpt,5 months,
 skilled_workers_qc_flpt / skilled_workers_qc_flpt,9 months,
 cit_grant_flpt / cit_grant_flpt,8 months,
 cit_proof_flpt / cit_proof_flpt,3 months,
-spousal_canada_qc_flpt / spousal_canada_qc_flpt,27 months,
-spousal_canada_roc_flpt / spousal_canada_roc_flpt,11 months,
+spousal_canada_qc_flpt / spousal_canada_qc_flpt,28 months,
+spousal_canada_roc_flpt / spousal_canada_roc_flpt,10 months,
 spousal_outside_qc_flpt / spousal_outside_qc_flpt,34 months,
-spousal_outside_roc_flpt / spousal_outside_roc_flpt,13 months,
-pgp_qc_flpt / pgp_qc_flpt,33 months,
-pgp_roc_flpt / pgp_roc_flpt,20 months,
+spousal_outside_roc_flpt / spousal_outside_roc_flpt,10 months,
+pgp_qc_flpt / pgp_qc_flpt,48 months,
+pgp_roc_flpt / pgp_roc_flpt,24 months,

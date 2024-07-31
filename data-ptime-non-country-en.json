@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "July 24, 2024",
+"lastupdated": "July 30, 2024",
 "flpt_lastupdated": "July 3, 2024",
 "flpt_interval": " monthly"
 },
@@ -10,7 +10,7 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "108 days"
+"visitor_extension": "115 days"
 },
 
 
@@ -24,7 +24,7 @@
 
 "iec": {
 "iec": "6 weeks",
-"iec_past": "106 weeks"
+"iec_past": "104 weeks"
 },
 
 "eta": {
@@ -66,7 +66,7 @@
 },
 
 "pr_card": {
-"new_pr": "42 days",
+"new_pr": "35 days",
 "existing_pr": "73 days"
 },
 
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "84 days"
+"sawp_current": "91 days"
 },
 
 "dependents_protected_persons": {

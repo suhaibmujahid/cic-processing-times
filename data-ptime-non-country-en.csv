@@ -1,10 +1,10 @@
 service,time,lastupdated
-default-update / flpt_lastupdated,"July 31, 2024","August 14, 2024"
-default-update / flpt_interval, monthly,"August 14, 2024"
-visitor_inside_canada / visitor_inside_canada,24 days,
-visitor_extension / visitor_extension,114 days,
-study_extension / study_extension,64 days,
-work_extension / work_extension,113 days,
+default-update / flpt_lastupdated,"July 31, 2024","August 20, 2024"
+default-update / flpt_interval, monthly,"August 20, 2024"
+visitor_inside_canada / visitor_inside_canada,25 days,
+visitor_extension / visitor_extension,118 days,
+study_extension / study_extension,71 days,
+work_extension / work_extension,117 days,
 iec / iec,6 weeks,
 iec / iec_past,Not enough data,
 eta / eta,5 minutes,
@@ -30,7 +30,7 @@ caregivers / childcare,37 months,
 caregivers / childcare_pr,25 months,
 caregivers / supportworker,31 months,
 caregivers / supportworker_pr,25 months,
-sawp / sawp_current,126 days,
+sawp / sawp_current,136 days,
 dependents_protected_persons / dependents_protected_persons,51 months,
 atlantic-immigration-program / atlantic-immigration-program,7 months,
 cec_flpt / cec_flpt,5 months,

@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "September 3, 2024",
+"lastupdated": "September 11, 2024",
 "flpt_lastupdated": "September 4, 2024",
 "flpt_interval": " monthly"
 },
@@ -10,16 +10,16 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "109 days"
+"visitor_extension": "110 days"
 },
 
 
 "study_extension": {
-"study_extension": "89 days"
+"study_extension": "96 days"
 },
 
 "work_extension": {
-"work_extension": "119 days"
+"work_extension": "123 days"
 },
 
 "iec": {
@@ -67,7 +67,7 @@
 
 "pr_card": {
 "new_pr": "25 days",
-"existing_pr": "72 days"
+"existing_pr": "71 days"
 },
 
 "rep_documents": {
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "172 days"
+"sawp_current": "260 days"
 },
 
 "dependents_protected_persons": {

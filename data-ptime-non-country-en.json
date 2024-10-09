@@ -1,7 +1,7 @@
 {
   "default-update": {
     "lastupdated": "October 1, 2024",
-    "flpt_lastupdated": "September 4, 2024",
+    "flpt_lastupdated": "October 8, 2024",
     "flpt_interval": " monthly"
   },
 
@@ -115,11 +115,11 @@
   },
 
   "cit_grant_flpt": {
-    "cit_grant_flpt": "7 months"
+    "cit_grant_flpt": "6 months"
   },
 
   "cit_proof_flpt": {
-    "cit_proof_flpt": "3 months"
+    "cit_proof_flpt": "4 months"
   },
 
   "spousal_canada_qc_flpt": {

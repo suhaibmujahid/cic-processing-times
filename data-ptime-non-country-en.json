@@ -1,24 +1,24 @@
 {
   "default-update": {
-    "lastupdated": "October 22, 2024",
+    "lastupdated": "October 29, 2024",
     "flpt_lastupdated": "October 8, 2024",
     "flpt_interval": " monthly"
   },
 
   "visitor_inside_canada": {
-    "visitor_inside_canada": "25 days"
+    "visitor_inside_canada": "24 days"
   },
 
   "visitor_extension": {
-    "visitor_extension": "117 days"
+    "visitor_extension": "120 days"
   },
 
   "study_extension": {
-    "study_extension": "131 days"
+    "study_extension": "137 days"
   },
 
   "work_extension": {
-    "work_extension": "145 days"
+    "work_extension": "154 days"
   },
 
   "iec": {
@@ -65,7 +65,7 @@
 
   "pr_card": {
     "new_pr": "25 days",
-    "existing_pr": "62 days"
+    "existing_pr": "59 days"
   },
 
   "rep_documents": {
@@ -83,7 +83,7 @@
   },
 
   "sawp": {
-    "sawp_current": "295 days"
+    "sawp_current": "299 days"
   },
 
   "dependents_protected_persons": {
@@ -91,7 +91,7 @@
   },
 
   "atlantic-immigration-program": {
-    "atlantic-immigration-program": "8 months"
+    "atlantic-immigration-program": "7 months"
   },
 
   "cec_flpt": {

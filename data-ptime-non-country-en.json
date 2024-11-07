@@ -1,7 +1,7 @@
 {
   "default-update": {
     "lastupdated": "November 5, 2024",
-    "flpt_lastupdated": "October 8, 2024",
+    "flpt_lastupdated": "November 5, 2024",
     "flpt_interval": " monthly"
   },
 
@@ -103,7 +103,7 @@
   },
 
   "pnp_flpt": {
-    "pnp_flpt": "12 months"
+    "pnp_flpt": "13 months"
   },
 
   "fsw_ee_flpt": {
@@ -111,11 +111,11 @@
   },
 
   "skilled_workers_qc_flpt": {
-    "skilled_workers_qc_flpt": "9 months"
+    "skilled_workers_qc_flpt": "11 months"
   },
 
   "cit_grant_flpt": {
-    "cit_grant_flpt": "6 months"
+    "cit_grant_flpt": "7 months"
   },
 
   "cit_proof_flpt": {
@@ -127,11 +127,11 @@
   },
 
   "spousal_canada_roc_flpt": {
-    "spousal_canada_roc_flpt": "13 months"
+    "spousal_canada_roc_flpt": "12 months"
   },
 
   "spousal_outside_qc_flpt": {
-    "spousal_outside_qc_flpt": "35 months"
+    "spousal_outside_qc_flpt": "36 months"
   },
 
   "spousal_outside_roc_flpt": {

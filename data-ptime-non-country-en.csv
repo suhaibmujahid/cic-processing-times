@@ -1,5 +1,5 @@
 service,time,lastupdated
-default-update / flpt_lastupdated,"October 8, 2024","November 5, 2024"
+default-update / flpt_lastupdated,"November 5, 2024","November 5, 2024"
 default-update / flpt_interval, monthly,"November 5, 2024"
 visitor_inside_canada / visitor_inside_canada,21 days,
 visitor_extension / visitor_extension,152 days,
@@ -35,14 +35,14 @@ dependents_protected_persons / dependents_protected_persons,52 months,
 atlantic-immigration-program / atlantic-immigration-program,8 months,
 cec_flpt / cec_flpt,5 months,
 pnp_ee_flpt / pnp_ee_flpt,6 months,
-pnp_flpt / pnp_flpt,12 months,
+pnp_flpt / pnp_flpt,13 months,
 fsw_ee_flpt / fsw_ee_flpt,5 months,
-skilled_workers_qc_flpt / skilled_workers_qc_flpt,9 months,
-cit_grant_flpt / cit_grant_flpt,6 months,
+skilled_workers_qc_flpt / skilled_workers_qc_flpt,11 months,
+cit_grant_flpt / cit_grant_flpt,7 months,
 cit_proof_flpt / cit_proof_flpt,4 months,
 spousal_canada_qc_flpt / spousal_canada_qc_flpt,27 months,
-spousal_canada_roc_flpt / spousal_canada_roc_flpt,13 months,
-spousal_outside_qc_flpt / spousal_outside_qc_flpt,35 months,
+spousal_canada_roc_flpt / spousal_canada_roc_flpt,12 months,
+spousal_outside_qc_flpt / spousal_outside_qc_flpt,36 months,
 spousal_outside_roc_flpt / spousal_outside_roc_flpt,10 months,
 pgp_qc_flpt / pgp_qc_flpt,48 months,
 pgp_roc_flpt / pgp_roc_flpt,24 months,

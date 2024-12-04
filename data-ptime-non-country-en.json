@@ -1,7 +1,7 @@
 {
   "default-update": {
-    "lastupdated": "November 26, 2024",
-    "flpt_lastupdated": "November 5, 2024",
+    "lastupdated": "December 3, 2024",
+    "flpt_lastupdated": "December 3, 2024",
     "flpt_interval": " monthly"
   },
 
@@ -10,15 +10,15 @@
   },
 
   "visitor_extension": {
-    "visitor_extension": "116 days"
+    "visitor_extension": "126 days"
   },
 
   "study_extension": {
-    "study_extension": "163 days"
+    "study_extension": "158 days"
   },
 
   "work_extension": {
-    "work_extension": "169 days"
+    "work_extension": "171 days"
   },
 
   "iec": {
@@ -31,7 +31,7 @@
   },
 
   "quebec_business": {
-    "quebec_business": "58 months"
+    "quebec_business": "71 months"
   },
 
   "self_employed_federal": {
@@ -52,34 +52,34 @@
   },
 
   "humanitarian_compassionate": {
-    "humanitarian_compassionate_roc": "20 months",
-    "humanitarian_compassionate_qc": "49 months"
+    "humanitarian_compassionate_roc": "21 months",
+    "humanitarian_compassionate_qc": "48 months"
   },
 
   "citizenship": {
     "cit_resumption": "Not enough data",
-    "cit_renunciation": "16 months",
-    "cit_search": "11 months",
-    "cit_adoption_part1": "Part 1: 17 months"
+    "cit_renunciation": "15 months",
+    "cit_search": "10 months",
+    "cit_adoption_part1": "Part 1: 16 months"
   },
 
   "pr_card": {
     "new_pr": "24 days",
-    "existing_pr": "47 days"
+    "existing_pr": "43 days"
   },
 
   "rep_documents": {
-    "vos": "26 weeks",
+    "vos": "23 weeks",
     "replacement": "4 weeks",
     "amend_imm": "25 weeks",
     "amend_tr": "5 weeks"
   },
 
   "caregivers": {
-    "childcare": "39 months",
+    "childcare": "38 months",
     "childcare_pr": "21 months",
-    "supportworker": "31 months",
-    "supportworker_pr": "19 months"
+    "supportworker": "32 months",
+    "supportworker_pr": "18 months"
   },
 
   "sawp": {
@@ -87,7 +87,7 @@
   },
 
   "dependents_protected_persons": {
-    "dependents_protected_persons": "52 months"
+    "dependents_protected_persons": "53 months"
   },
 
   "atlantic-immigration-program": {
@@ -121,7 +121,7 @@
   },
 
   "cit_proof_flpt": {
-    "cit_proof_flpt": "4 months"
+    "cit_proof_flpt": "3 months"
   },
 
   "spousal_canada_qc_flpt": {

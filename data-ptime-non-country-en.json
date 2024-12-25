@@ -1,24 +1,24 @@
 {
   "default-update": {
-    "lastupdated": "December 17, 2024",
+    "lastupdated": "December 24, 2024",
     "flpt_lastupdated": "December 3, 2024",
     "flpt_interval": " monthly"
   },
 
   "visitor_inside_canada": {
-    "visitor_inside_canada": "42 days"
+    "visitor_inside_canada": "46 days"
   },
 
   "visitor_extension": {
-    "visitor_extension": "145 days"
+    "visitor_extension": "139 days"
   },
 
   "study_extension": {
-    "study_extension": "161 days"
+    "study_extension": "145 days"
   },
 
   "work_extension": {
-    "work_extension": "170 days"
+    "work_extension": "162 days"
   },
 
   "iec": {
@@ -48,7 +48,7 @@
 
   "refugees_protected": {
     "refugees_protected_roc": "25 months",
-    "refugees_protected_qc": "42 months"
+    "refugees_protected_qc": "43 months"
   },
 
   "humanitarian_compassionate": {
@@ -64,8 +64,8 @@
   },
 
   "pr_card": {
-    "new_pr": "21 days",
-    "existing_pr": "37 days"
+    "new_pr": "20 days",
+    "existing_pr": "33 days"
   },
 
   "rep_documents": {

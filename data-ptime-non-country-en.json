@@ -1,29 +1,29 @@
 {
 "default-update": {
-"lastupdated": "February 12, 2025",
+"lastupdated": "February 18, 2025",
 "flpt_lastupdated": "February 5, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "35 days"
+"visitor_inside_canada": "23 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "122 days"
+"visitor_extension": "119 days"
 },
 
 
 "study_extension": {
-"study_extension": "111 days"
+"study_extension": "112 days"
 },
 
 "work_extension": {
-"work_extension": "119 days"
+"work_extension": "117 days"
 },
 
 "iec": {
-"iec": "2 weeks",
+"iec": "1 weeks",
 "iec_past": "Not enough data"
 },
 
@@ -66,8 +66,8 @@
 },
 
 "pr_card": {
-"new_pr": "26 days",
-"existing_pr": "16 days"
+"new_pr": "24 days",
+"existing_pr": "15 days"
 },
 
 "rep_documents": {
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "10 days"
+"sawp_current": "12 days"
 },
 
 "dependents_protected_persons": {

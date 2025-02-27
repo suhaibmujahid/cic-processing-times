@@ -1,12 +1,12 @@
 {
 "default-update": {
-"lastupdated": "February 18, 2025",
+"lastupdated": "February 25, 2025",
 "flpt_lastupdated": "February 5, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "23 days"
+"visitor_inside_canada": "18 days"
 },
 
 "visitor_extension": {
@@ -23,7 +23,7 @@
 },
 
 "iec": {
-"iec": "1 weeks",
+"iec": "2 weeks",
 "iec_past": "Not enough data"
 },
 
@@ -66,7 +66,7 @@
 },
 
 "pr_card": {
-"new_pr": "24 days",
+"new_pr": "21 days",
 "existing_pr": "15 days"
 },
 
@@ -153,3 +153,14 @@
 }
 
 }
+
+
+
+
+
+
+
+
+
+
+

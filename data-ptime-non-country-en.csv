@@ -1,10 +1,10 @@
 service,time,lastupdated
-default-update / flpt_lastupdated,"March 4, 2025","March 5, 2025"
-default-update / flpt_interval, monthly,"March 5, 2025"
-visitor_inside_canada / visitor_inside_canada,18 days,
+default-update / flpt_lastupdated,"March 4, 2025","March 12, 2025"
+default-update / flpt_interval, monthly,"March 12, 2025"
+visitor_inside_canada / visitor_inside_canada,16 days,
 visitor_extension / visitor_extension,116 days,
 study_extension / study_extension,112 days,
-work_extension / work_extension,114 days,
+work_extension / work_extension,112 days,
 iec / iec,2 weeks,
 iec / iec_past,Not enough data,
 eta / eta,5 minutes,
@@ -20,8 +20,8 @@ citizenship / cit_resumption,Not enough data,
 citizenship / cit_renunciation,10 months,
 citizenship / cit_search,16 months,
 citizenship / cit_adoption_part1,Part 1: 9 months,
-pr_card / new_pr,16 days,
-pr_card / existing_pr,14 days,
+pr_card / new_pr,12 days,
+pr_card / existing_pr,13 days,
 rep_documents / vos,12 weeks,
 rep_documents / replacement,3 weeks,
 rep_documents / amend_imm,24 weeks,

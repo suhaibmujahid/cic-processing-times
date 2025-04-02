@@ -1,25 +1,25 @@
 {
 "default-update": {
-"lastupdated": "March 25, 2025",
-"flpt_lastupdated": "March 4, 2025",
+"lastupdated": "April 1, 2025",
+"flpt_lastupdated": "April 1, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "15 days"
+"visitor_inside_canada": "14 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "125 days"
+"visitor_extension": "130 days"
 },
 
 
 "study_extension": {
-"study_extension": "116 days"
+"study_extension": "120 days"
 },
 
 "work_extension": {
-"work_extension": "115 days"
+"work_extension": "121 days"
 },
 
 "iec": {
@@ -32,11 +32,11 @@
 },
 
 "quebec_business": {
-"quebec_business": "71 months"
+"quebec_business": "72 months"
 },
 
 "self_employed_federal": {
-"self_employed_federal": "49 months"
+"self_employed_federal": "50 months"
 },
 
 "fed_skilled_trades": {
@@ -49,39 +49,39 @@
 },
 
 "refugees_protected": {
-"refugees_protected_roc": "28 months",
+"refugees_protected_roc": "30 months",
 "refugees_protected_qc": "45 months"
 },
 
 "humanitarian_compassionate": {
 "humanitarian_compassionate_roc": "22 months",
-"humanitarian_compassionate_qc": "47 months"
+"humanitarian_compassionate_qc": "48 months"
 },
 
 "citizenship": {
 "cit_resumption": "Not enough data",
-"cit_renunciation": "10 months",
-"cit_search": "16 months",
-"cit_adoption_part1": "Part 1: 9 months"
+"cit_renunciation": "8 months",
+"cit_search": "15 months",
+"cit_adoption_part1": "Part 1: 7 months"
 },
 
 "pr_card": {
-"new_pr": "12 days",
+"new_pr": "14 days",
 "existing_pr": "11 days"
 },
 
 "rep_documents": {
-"vos": "12 weeks",
+"vos": "9 weeks",
 "replacement": "3 weeks",
-"amend_imm": "24 weeks",
-"amend_tr": "4 weeks"
+"amend_imm": "23 weeks",
+"amend_tr": "3 weeks"
 },
 
 "caregivers": {
 "childcare": "33 months",
 "childcare_pr": "23 months",
-"supportworker": "32 months",
-"supportworker_pr": "18 months"
+"supportworker": "31 months",
+"supportworker_pr": "17 months"
 },
 
 "sawp": {
@@ -93,7 +93,7 @@
 },
 
 "atlantic-immigration-program": {
-"atlantic-immigration-program": "10 months"
+"atlantic-immigration-program": "11 months"
 },
 
 "empp": {
@@ -105,7 +105,7 @@
 },
 
 "pnp_ee_flpt": {
-"pnp_ee_flpt": "7 months"
+"pnp_ee_flpt": "6 months"
 },
 
 "pnp_flpt": {
@@ -113,7 +113,7 @@
 },
 
 "fsw_ee_flpt": {
-"fsw_ee_flpt": "5 months"
+"fsw_ee_flpt": "6 months"
 },
 
 "skilled_workers_qc_flpt": {
@@ -121,15 +121,15 @@
 },
 
 "cit_grant_flpt": {
-"cit_grant_flpt": "9 months"
+"cit_grant_flpt": "8 months"
 },
 
 "cit_proof_flpt": {
-"cit_proof_flpt": "4 months"
+"cit_proof_flpt": "3 months"
 },
 
 "spousal_canada_qc_flpt": {
-"spousal_canada_qc_flpt": "35 months"
+"spousal_canada_qc_flpt": "36 months"
 },
 
 "spousal_canada_roc_flpt": {
@@ -149,7 +149,7 @@
 },
 
 "pgp_roc_flpt": {
-"pgp_roc_flpt": "33 months"
+"pgp_roc_flpt": "36 months"
 }
 
 }

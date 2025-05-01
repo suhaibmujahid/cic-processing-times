@@ -1,25 +1,25 @@
 {
 "default-update": {
-"lastupdated": "April 23, 2025",
+"lastupdated": "April 30, 2025",
 "flpt_lastupdated": "April 1, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "16 days"
+"visitor_inside_canada": "17 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "130 days"
+"visitor_extension": "140 days"
 },
 
 
 "study_extension": {
-"study_extension": "207 days"
+"study_extension": "220 days"
 },
 
 "work_extension": {
-"work_extension": "218 days"
+"work_extension": "227 days"
 },
 
 "iec": {
@@ -66,8 +66,8 @@
 },
 
 "pr_card": {
-"new_pr": "18 days",
-"existing_pr": "9 days"
+"new_pr": "19 days",
+"existing_pr": "10 days"
 },
 
 "rep_documents": {

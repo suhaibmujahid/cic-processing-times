@@ -1,29 +1,29 @@
 {
 "default-update": {
-"lastupdated": "April 30, 2025",
+"lastupdated": "May 6, 2025",
 "flpt_lastupdated": "May 1, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "17 days"
+"visitor_inside_canada": "20 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "140 days"
+"visitor_extension": "163 days"
 },
 
 
 "study_extension": {
-"study_extension": "220 days"
+"study_extension": "223 days"
 },
 
 "work_extension": {
-"work_extension": "227 days"
+"work_extension": "233 days"
 },
 
 "iec": {
-"iec": "4 weeks",
+"iec": "5 weeks",
 "iec_past": "Not enough data"
 },
 
@@ -32,11 +32,11 @@
 },
 
 "quebec_business": {
-"quebec_business": "72 months"
+"quebec_business": "Not enough data"
 },
 
 "self_employed_federal": {
-"self_employed_federal": "50 months"
+"self_employed_federal": "53 months"
 },
 
 "fed_skilled_trades": {
@@ -45,7 +45,7 @@
 
 
 "startup_back": {
-"startup_back": "40 months"
+"startup_back": "41 months"
 },
 
 "refugees_protected": {
@@ -60,27 +60,27 @@
 
 "citizenship": {
 "cit_resumption": "Not enough data",
-"cit_renunciation": "8 months",
+"cit_renunciation": "7 months",
 "cit_search": "15 months",
 "cit_adoption_part1": "Part 1: 7 months"
 },
 
 "pr_card": {
-"new_pr": "19 days",
+"new_pr": "35 days",
 "existing_pr": "10 days"
 },
 
 "rep_documents": {
-"vos": "9 weeks",
-"replacement": "3 weeks",
-"amend_imm": "23 weeks",
+"vos": "7 weeks",
+"replacement": "2 weeks",
+"amend_imm": "21 weeks",
 "amend_tr": "3 weeks"
 },
 
 "caregivers": {
-"childcare": "33 months",
+"childcare": "34 months",
 "childcare_pr": "23 months",
-"supportworker": "31 months",
+"supportworker": "25 months",
 "supportworker_pr": "17 months"
 },
 

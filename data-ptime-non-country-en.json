@@ -1,7 +1,7 @@
 {
 "default-update": {
 "lastupdated": "June 3, 2025",
-"flpt_lastupdated": "May 1, 2025",
+"flpt_lastupdated": "June 5, 2025",
 "flpt_interval": " monthly"
 },
 
@@ -105,15 +105,15 @@
 },
 
 "pnp_ee_flpt": {
-"pnp_ee_flpt": "5 months"
+"pnp_ee_flpt": "8 months"
 },
 
 "pnp_flpt": {
-"pnp_flpt": "20 months"
+"pnp_flpt": "19 months"
 },
 
 "fsw_ee_flpt": {
-"fsw_ee_flpt": "5 months"
+"fsw_ee_flpt": "6 months"
 },
 
 "skilled_workers_qc_flpt": {
@@ -125,23 +125,23 @@
 },
 
 "cit_proof_flpt": {
-"cit_proof_flpt": "4 months"
+"cit_proof_flpt": "5 months"
 },
 
 "spousal_canada_qc_flpt": {
-"spousal_canada_qc_flpt": "36 months"
+"spousal_canada_qc_flpt": "38 months"
 },
 
 "spousal_canada_roc_flpt": {
-"spousal_canada_roc_flpt": "29 months"
+"spousal_canada_roc_flpt": "34 months"
 },
 
 "spousal_outside_qc_flpt": {
-"spousal_outside_qc_flpt": "36 months"
+"spousal_outside_qc_flpt": "37 months"
 },
 
 "spousal_outside_roc_flpt": {
-"spousal_outside_roc_flpt": "10 months"
+"spousal_outside_roc_flpt": "11 months"
 },
 
 "pgp_qc_flpt": {

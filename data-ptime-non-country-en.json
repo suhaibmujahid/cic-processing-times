@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "June 3, 2025",
+"lastupdated": "June 17, 2025",
 "flpt_lastupdated": "June 5, 2025",
 "flpt_interval": " monthly"
 },
@@ -10,16 +10,16 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "180 days"
+"visitor_extension": "203 days"
 },
 
 
 "study_extension": {
-"study_extension": "222 days"
+"study_extension": "203 days"
 },
 
 "work_extension": {
-"work_extension": "225 days"
+"work_extension": "210 days"
 },
 
 "iec": {
@@ -66,8 +66,8 @@
 },
 
 "pr_card": {
-"new_pr": "49 days",
-"existing_pr": "14 days"
+"new_pr": "50 days",
+"existing_pr": "15 days"
 },
 
 "rep_documents": {
@@ -85,11 +85,11 @@
 },
 
 "sawp": {
-"sawp_current": "36 days"
+"sawp_current": "33 days"
 },
 
 "dependents_protected_persons": {
-"dependents_protected_persons": "49 months"
+"dependents_protected_persons": "50 months"
 },
 
 "atlantic-immigration-program": {

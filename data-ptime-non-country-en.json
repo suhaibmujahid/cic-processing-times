@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "June 17, 2025",
+"lastupdated": "June 25, 2025",
 "flpt_lastupdated": "June 5, 2025",
 "flpt_interval": " monthly"
 },
@@ -10,16 +10,16 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "203 days"
+"visitor_extension": "204 days"
 },
 
 
 "study_extension": {
-"study_extension": "203 days"
+"study_extension": "189 days"
 },
 
 "work_extension": {
-"work_extension": "210 days"
+"work_extension": "196 days"
 },
 
 "iec": {
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "33 days"
+"sawp_current": "37 days"
 },
 
 "dependents_protected_persons": {

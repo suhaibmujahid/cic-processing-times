@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "July 16, 2025",
+"lastupdated": "July 22, 2025",
 "flpt_lastupdated": "June 5, 2025",
 "flpt_interval": " monthly"
 },
@@ -10,12 +10,12 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "217 days"
+"visitor_extension": "202 days"
 },
 
 
 "study_extension": {
-"study_extension": "175 days"
+"study_extension": "173 days"
 },
 
 "work_extension": {
@@ -66,8 +66,8 @@
 },
 
 "pr_card": {
-"new_pr": "48 days",
-"existing_pr": "20 days"
+"new_pr": "45 days",
+"existing_pr": "21 days"
 },
 
 "rep_documents": {
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "43 days"
+"sawp_current": "38 days"
 },
 
 "dependents_protected_persons": {
@@ -151,5 +151,4 @@
 "pgp_roc_flpt": {
 "pgp_roc_flpt": "36 months"
 }
-
 }

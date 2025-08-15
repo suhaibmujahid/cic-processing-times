@@ -1,6 +1,6 @@
 {
   "default-update": {
-    "lastupdated": "August 5, 2025",
+    "lastupdated": "August 13, 2025",
     "flpt_lastupdated": "August 6, 2025",
     "flpt_interval": " monthly"
   },
@@ -10,19 +10,20 @@
   },
 
   "visitor_extension": {
-    "visitor_extension": "186 days"
+    "visitor_extension": "183 days"
   },
 
+
   "study_extension": {
-    "study_extension": "171 days"
+    "study_extension": "170 days"
   },
 
   "work_extension": {
-    "work_extension": "181 days"
+    "work_extension": "182 days"
   },
 
   "iec": {
-    "iec": "6 weeks",
+    "iec": "5 weeks",
     "iec_past": "Not enough data"
   },
 
@@ -41,6 +42,7 @@
   "fed_skilled_trades": {
     "skilled_trades_ee": "Not enough data"
   },
+
 
   "startup_back": {
     "startup_back": "52 months"
@@ -64,8 +66,8 @@
   },
 
   "pr_card": {
-    "new_pr": "40 days",
-    "existing_pr": "28 days"
+    "new_pr": "37 days",
+    "existing_pr": "30 days"
   },
 
   "rep_documents": {
@@ -83,7 +85,7 @@
   },
 
   "sawp": {
-    "sawp_current": "34 days"
+    "sawp_current": "41 days"
   },
 
   "dependents_protected_persons": {
@@ -94,7 +96,9 @@
     "atlantic-immigration-program": "13 months"
   },
 
-  "empp": {},
+  "empp": {
+
+  },
 
   "cec_flpt": {
     "cec_flpt": "5 months"
@@ -147,4 +151,5 @@
   "pgp_roc_flpt": {
     "pgp_roc_flpt": "36 months"
   }
+
 }

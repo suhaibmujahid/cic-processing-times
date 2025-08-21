@@ -1,155 +1,155 @@
 {
-  "default-update": {
-    "lastupdated": "August 13, 2025",
-    "flpt_lastupdated": "August 6, 2025",
-    "flpt_interval": " monthly"
-  },
+"default-update": {
+"lastupdated": "August 20, 2025",
+"flpt_lastupdated": "August 6, 2025",
+"flpt_interval": " monthly"
+},
 
-  "visitor_inside_canada": {
-    "visitor_inside_canada": "14 days"
-  },
+"visitor_inside_canada": {
+"visitor_inside_canada": "15 days"
+},
 
-  "visitor_extension": {
-    "visitor_extension": "183 days"
-  },
-
-
-  "study_extension": {
-    "study_extension": "170 days"
-  },
-
-  "work_extension": {
-    "work_extension": "182 days"
-  },
-
-  "iec": {
-    "iec": "5 weeks",
-    "iec_past": "Not enough data"
-  },
-
-  "eta": {
-    "eta": "5 minutes"
-  },
-
-  "quebec_business": {
-    "quebec_business": "Not enough data"
-  },
-
-  "self_employed_federal": {
-    "self_employed_federal": "60 months"
-  },
-
-  "fed_skilled_trades": {
-    "skilled_trades_ee": "Not enough data"
-  },
+"visitor_extension": {
+"visitor_extension": "183 days"
+},
 
 
-  "startup_back": {
-    "startup_back": "52 months"
-  },
+"study_extension": {
+"study_extension": "172 days"
+},
 
-  "refugees_protected": {
-    "refugees_protected_roc": "29 months",
-    "refugees_protected_qc": "45 months"
-  },
+"work_extension": {
+"work_extension": "185 days"
+},
 
-  "humanitarian_compassionate": {
-    "humanitarian_compassionate_roc": "24 months",
-    "humanitarian_compassionate_qc": "50 months"
-  },
+"iec": {
+"iec": "5 weeks",
+"iec_past": "Not enough data"
+},
 
-  "citizenship": {
-    "cit_resumption": "Not enough data",
-    "cit_renunciation": "5 months",
-    "cit_search": "14 months",
-    "cit_adoption_part1": "Part 1: 4 months"
-  },
+"eta": {
+"eta": "5 minutes"
+},
 
-  "pr_card": {
-    "new_pr": "37 days",
-    "existing_pr": "30 days"
-  },
+"quebec_business": {
+"quebec_business": "Not enough data"
+},
 
-  "rep_documents": {
-    "vos": "3 weeks",
-    "replacement": "3 weeks",
-    "amend_imm": "4 weeks",
-    "amend_tr": "3 weeks"
-  },
+"self_employed_federal": {
+"self_employed_federal": "60 months"
+},
 
-  "caregivers": {
-    "childcare": "37 months",
-    "childcare_pr": "24 months",
-    "supportworker": "17 months",
-    "supportworker_pr": "17 months"
-  },
+"fed_skilled_trades": {
+"skilled_trades_ee": "Not enough data"
+},
 
-  "sawp": {
-    "sawp_current": "41 days"
-  },
 
-  "dependents_protected_persons": {
-    "dependents_protected_persons": "50 months"
-  },
+"startup_back": {
+"startup_back": "52 months"
+},
 
-  "atlantic-immigration-program": {
-    "atlantic-immigration-program": "13 months"
-  },
+"refugees_protected": {
+"refugees_protected_roc": "29 months",
+"refugees_protected_qc": "45 months"
+},
 
-  "empp": {
+"humanitarian_compassionate": {
+"humanitarian_compassionate_roc": "24 months",
+"humanitarian_compassionate_qc": "50 months"
+},
 
-  },
+"citizenship": {
+"cit_resumption": "Not enough data",
+"cit_renunciation": "5 months",
+"cit_search": "14 months",
+"cit_adoption_part1": "Part 1: 4 months"
+},
 
-  "cec_flpt": {
-    "cec_flpt": "5 months"
-  },
+"pr_card": {
+"new_pr": "36 days",
+"existing_pr": "31 days"
+},
 
-  "pnp_ee_flpt": {
-    "pnp_ee_flpt": "8 months"
-  },
+"rep_documents": {
+"vos": "3 weeks",
+"replacement": "3 weeks",
+"amend_imm": "4 weeks",
+"amend_tr": "3 weeks"
+},
 
-  "pnp_flpt": {
-    "pnp_flpt": "20 months"
-  },
+"caregivers": {
+"childcare": "37 months",
+"childcare_pr": "24 months",
+"supportworker": "17 months",
+"supportworker_pr": "17 months"
+},
 
-  "fsw_ee_flpt": {
-    "fsw_ee_flpt": "7 months"
-  },
+"sawp": {
+"sawp_current": "45 days"
+},
 
-  "skilled_workers_qc_flpt": {
-    "skilled_workers_qc_flpt": "9 months"
-  },
+"dependents_protected_persons": {
+"dependents_protected_persons": "50 months"
+},
 
-  "cit_grant_flpt": {
-    "cit_grant_flpt": "10 months"
-  },
+"atlantic-immigration-program": {
+"atlantic-immigration-program": "13 months"
+},
 
-  "cit_proof_flpt": {
-    "cit_proof_flpt": "5 months"
-  },
+"empp": {
 
-  "spousal_canada_qc_flpt": {
-    "spousal_canada_qc_flpt": "40 months"
-  },
+},
 
-  "spousal_canada_roc_flpt": {
-    "spousal_canada_roc_flpt": "36 months"
-  },
+"cec_flpt": {
+"cec_flpt": "5 months"
+},
 
-  "spousal_outside_qc_flpt": {
-    "spousal_outside_qc_flpt": "41 months"
-  },
+"pnp_ee_flpt": {
+"pnp_ee_flpt": "8 months"
+},
 
-  "spousal_outside_roc_flpt": {
-    "spousal_outside_roc_flpt": "13 months"
-  },
+"pnp_flpt": {
+"pnp_flpt": "20 months"
+},
 
-  "pgp_qc_flpt": {
-    "pgp_qc_flpt": "48 months"
-  },
+"fsw_ee_flpt": {
+"fsw_ee_flpt": "7 months"
+},
 
-  "pgp_roc_flpt": {
-    "pgp_roc_flpt": "36 months"
-  }
+"skilled_workers_qc_flpt": {
+"skilled_workers_qc_flpt": "9 months"
+},
+
+"cit_grant_flpt": {
+"cit_grant_flpt": "10 months"
+},
+
+"cit_proof_flpt": {
+"cit_proof_flpt": "5 months"
+},
+
+"spousal_canada_qc_flpt": {
+"spousal_canada_qc_flpt": "40 months"
+},
+
+"spousal_canada_roc_flpt": {
+"spousal_canada_roc_flpt": "36 months"
+},
+
+"spousal_outside_qc_flpt": {
+"spousal_outside_qc_flpt": "41 months"
+},
+
+"spousal_outside_roc_flpt": {
+"spousal_outside_roc_flpt": "13 months"
+},
+
+"pgp_qc_flpt": {
+"pgp_qc_flpt": "48 months"
+},
+
+"pgp_roc_flpt": {
+"pgp_roc_flpt": "36 months"
+}
 
 }

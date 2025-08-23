@@ -1,6 +1,6 @@
 service,time,lastupdated
-default-update / flpt_lastupdated,"August 6, 2025","August 20, 2025"
-default-update / flpt_interval, monthly,"August 20, 2025"
+default-update / flpt_lastupdated,"August 6, 2025","August 22, 2025"
+default-update / flpt_interval, monthly,"August 22, 2025"
 visitor_inside_canada / visitor_inside_canada,15 days,
 visitor_extension / visitor_extension,183 days,
 study_extension / study_extension,172 days,

@@ -1,25 +1,25 @@
 {
 "default-update": {
-"lastupdated": "September 3, 2025",
-"flpt_lastupdated": "August 6, 2025",
+"lastupdated": "September 10, 2025",
+"flpt_lastupdated": "September 2, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "14 days"
+"visitor_inside_canada": "13 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "176 days"
+"visitor_extension": "170 days"
 },
 
 
 "study_extension": {
-"study_extension": "164 days"
+"study_extension": "163 days"
 },
 
 "work_extension": {
-"work_extension": "188 days"
+"work_extension": "190 days"
 },
 
 "iec": {
@@ -66,7 +66,7 @@
 },
 
 "pr_card": {
-"new_pr": "35 days",
+"new_pr": "36 days",
 "existing_pr": "33 days"
 },
 
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "67 days"
+"sawp_current": "70 days"
 },
 
 "dependents_protected_persons": {
@@ -113,7 +113,7 @@
 },
 
 "fsw_ee_flpt": {
-"fsw_ee_flpt": "7 months"
+"fsw_ee_flpt": "6 months"
 },
 
 "skilled_workers_qc_flpt": {
@@ -121,7 +121,7 @@
 },
 
 "cit_grant_flpt": {
-"cit_grant_flpt": "10 months"
+"cit_grant_flpt": "11 months"
 },
 
 "cit_proof_flpt": {
@@ -129,11 +129,11 @@
 },
 
 "spousal_canada_qc_flpt": {
-"spousal_canada_qc_flpt": "40 months"
+"spousal_canada_qc_flpt": "38 months"
 },
 
 "spousal_canada_roc_flpt": {
-"spousal_canada_roc_flpt": "36 months"
+"spousal_canada_roc_flpt": "23 months"
 },
 
 "spousal_outside_qc_flpt": {
@@ -141,15 +141,15 @@
 },
 
 "spousal_outside_roc_flpt": {
-"spousal_outside_roc_flpt": "13 months"
+"spousal_outside_roc_flpt": "15 months"
 },
 
 "pgp_qc_flpt": {
-"pgp_qc_flpt": "48 months"
+"pgp_qc_flpt": "44 months"
 },
 
 "pgp_roc_flpt": {
-"pgp_roc_flpt": "36 months"
+"pgp_roc_flpt": "26 months"
 }
 
 }

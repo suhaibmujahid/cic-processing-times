@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "October 29, 2025",
+"lastupdated": "November 5, 2025",
 "flpt_lastupdated": "October 1, 2025",
 "flpt_interval": " monthly"
 },
@@ -10,16 +10,16 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "182 days"
+"visitor_extension": "186 days"
 },
 
 
 "study_extension": {
-"study_extension": "168 days"
+"study_extension": "169 days"
 },
 
 "work_extension": {
-"work_extension": "226 days"
+"work_extension": "227 days"
 },
 
 "iec": {
@@ -45,47 +45,47 @@
 
 
 "startup_back": {
-"startup_back": "54 months"
+"startup_back": "56 months"
 },
 
 "refugees_protected": {
-"refugees_protected_roc": "30 months",
-"refugees_protected_qc": "45 months"
+"refugees_protected_roc": "31 months",
+"refugees_protected_qc": "47 months"
 },
 
 "humanitarian_compassionate": {
 "humanitarian_compassionate_roc": "24 months",
-"humanitarian_compassionate_qc": "51 months"
+"humanitarian_compassionate_qc": "52 months"
 },
 
 "citizenship": {
 "cit_resumption": "Not enough data",
-"cit_renunciation": "10 months",
+"cit_renunciation": "22 months",
 "cit_search": "13 months",
 "cit_adoption_part1": "Part 1: 4 months"
 },
 
 "pr_card": {
 "new_pr": "61 days",
-"existing_pr": "30 days"
+"existing_pr": "29 days"
 },
 
 "rep_documents": {
-"vos": "5 weeks",
+"vos": "6 weeks",
 "replacement": "3 weeks",
-"amend_imm": "4 weeks",
+"amend_imm": "11 weeks",
 "amend_tr": "3 weeks"
 },
 
 "caregivers": {
 "childcare": "32 months",
-"childcare_pr": "21 months",
+"childcare_pr": "25 months",
 "supportworker": "19 months",
-"supportworker_pr": "18 months"
+"supportworker_pr": "19 months"
 },
 
 "sawp": {
-"sawp_current": "59 days"
+"sawp_current": "15 days"
 },
 
 "dependents_protected_persons": {

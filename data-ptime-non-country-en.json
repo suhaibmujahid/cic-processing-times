@@ -1,21 +1,21 @@
 {
 "default-update": {
-"lastupdated": "November 5, 2025",
+"lastupdated": "November 12, 2025",
 "flpt_lastupdated": "October 1, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "19 days"
+"visitor_inside_canada": "18 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "186 days"
+"visitor_extension": "192 days"
 },
 
 
 "study_extension": {
-"study_extension": "169 days"
+"study_extension": "162 days"
 },
 
 "work_extension": {
@@ -23,7 +23,7 @@
 },
 
 "iec": {
-"iec": "6 weeks",
+"iec": "5 weeks",
 "iec_past": "Not enough data"
 },
 
@@ -36,7 +36,7 @@
 },
 
 "self_employed_federal": {
-"self_employed_federal": "64 months"
+"self_employed_federal": "63 months"
 },
 
 "fed_skilled_trades": {
@@ -66,7 +66,7 @@
 },
 
 "pr_card": {
-"new_pr": "61 days",
+"new_pr": "59 days",
 "existing_pr": "29 days"
 },
 
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "15 days"
+"sawp_current": "5 days"
 },
 
 "dependents_protected_persons": {

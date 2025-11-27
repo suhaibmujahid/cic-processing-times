@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "November 19, 2025",
+"lastupdated": "November 26, 2025",
 "flpt_lastupdated": "October 1, 2025",
 "flpt_interval": " monthly"
 },
@@ -10,12 +10,12 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "200 days"
+"visitor_extension": "203 days"
 },
 
 
 "study_extension": {
-"study_extension": "157 days"
+"study_extension": "151 days"
 },
 
 "work_extension": {
@@ -50,7 +50,7 @@
 
 "refugees_protected": {
 "refugees_protected_roc": "31 months",
-"refugees_protected_qc": "47 months"
+"refugees_protected_qc": "46 months"
 },
 
 "humanitarian_compassionate": {
@@ -66,8 +66,8 @@
 },
 
 "pr_card": {
-"new_pr": "58 days",
-"existing_pr": "30 days"
+"new_pr": "59 days",
+"existing_pr": "32 days"
 },
 
 "rep_documents": {
@@ -85,7 +85,7 @@
 },
 
 "sawp": {
-"sawp_current": "10 days"
+"sawp_current": "12 days"
 },
 
 "dependents_protected_persons": {

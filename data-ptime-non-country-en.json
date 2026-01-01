@@ -1,6 +1,6 @@
 {
     "default-update": {
-        "lastupdated": "December 23, 2025",
+        "lastupdated": "December 31, 2025",
         "flpt_lastupdated": "October 1, 2025",
         "flpt_interval": " monthly"
     },
@@ -8,16 +8,16 @@
         "visitor_inside_canada": "14 days"
     },
     "visitor_extension": {
-        "visitor_extension": "177 days"
+        "visitor_extension": "173 days"
     },
     "study_extension": {
-        "study_extension": "130 days"
+        "study_extension": "119 days"
     },
     "work_extension": {
-        "work_extension": "211 days"
+        "work_extension": "210 days"
     },
     "iec": {
-        "iec": "5 weeks",
+        "iec": "6 weeks",
         "iec_past": "Not enough data"
     },
     "eta": {

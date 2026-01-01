@@ -1,11 +1,11 @@
 service,time,lastupdated
-default-update / flpt_lastupdated,"October 1, 2025","December 23, 2025"
-default-update / flpt_interval, monthly,"December 23, 2025"
+default-update / flpt_lastupdated,"October 1, 2025","December 31, 2025"
+default-update / flpt_interval, monthly,"December 31, 2025"
 visitor_inside_canada / visitor_inside_canada,14 days,
-visitor_extension / visitor_extension,177 days,
-study_extension / study_extension,130 days,
-work_extension / work_extension,211 days,
-iec / iec,5 weeks,
+visitor_extension / visitor_extension,173 days,
+study_extension / study_extension,119 days,
+work_extension / work_extension,210 days,
+iec / iec,6 weeks,
 iec / iec_past,Not enough data,
 eta / eta,5 minutes,
 quebec_business / quebec_business,Not enough data,

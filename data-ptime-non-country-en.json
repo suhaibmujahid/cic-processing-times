@@ -1,25 +1,25 @@
 {
 "default-update": {
-"lastupdated": "February 24, 2026",
+"lastupdated": "March 3, 2026",
 "flpt_lastupdated": "October 1, 2025",
 "flpt_interval": " monthly"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "19 days"
+"visitor_inside_canada": "18 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "218 days"
+"visitor_extension": "226 days"
 },
 
 
 "study_extension": {
-"study_extension": "89 days"
+"study_extension": "90 days"
 },
 
 "work_extension": {
-"work_extension": "256 days"
+"work_extension": "258 days"
 },
 
 "iec": {
@@ -45,7 +45,7 @@
 
 
 "startup_back": {
-"startup_back": "56 months"
+"startup_back": "57 months"
 },
 
 "refugees_protected": {
@@ -55,37 +55,37 @@
 
 "humanitarian_compassionate": {
 "humanitarian_compassionate_roc": "31 months",
-"humanitarian_compassionate_qc": "54 months"
+"humanitarian_compassionate_qc": "55 months"
 },
 
 "citizenship": {
 "cit_resumption": "Not enough data",
-"cit_renunciation": "18 months",
-"cit_search": "16 months",
-"cit_adoption_part1": "Part 1: 6 months"
+"cit_renunciation": "10 months",
+"cit_search": "17 months",
+"cit_adoption_part1": "Part 1: 5 months"
 },
 
 "pr_card": {
 "new_pr": "61 days",
-"existing_pr": "29 days"
+"existing_pr": "28 days"
 },
 
 "rep_documents": {
 "vos": "17 weeks",
 "replacement": "3 weeks",
 "amend_imm": "13 weeks",
-"amend_tr": "4 weeks"
+"amend_tr": "3 weeks"
 },
 
 "caregivers": {
-"childcare": "33 months",
-"childcare_pr": "32 months",
-"supportworker": "22 months",
-"supportworker_pr": "21 months"
+"childcare": "44 months",
+"childcare_pr": "33 months",
+"supportworker": "27 months",
+"supportworker_pr": "23 months"
 },
 
 "sawp": {
-"sawp_current": "8 days"
+"sawp_current": "7 days"
 },
 
 "dependents_protected_persons": {

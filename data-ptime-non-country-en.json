@@ -1,6 +1,6 @@
 {
 "default-update": {
-"lastupdated": "March 31, 2026",
+"lastupdated": "April 9, 2026",
 "flpt_lastupdated": "October 1, 2025",
 "flpt_interval": " monthly"
 },
@@ -10,16 +10,16 @@
 },
 
 "visitor_extension": {
-"visitor_extension": "306 days"
+"visitor_extension": "314 days"
 },
 
 
 "study_extension": {
-"study_extension": "95 days"
+"study_extension": "94 days"
 },
 
 "work_extension": {
-"work_extension": "253 days"
+"work_extension": "247 days"
 },
 
 "iec": {
@@ -32,7 +32,7 @@
 },
 
 "quebec_business": {
-"quebec_business": "105 weeks"
+"quebec_business": "103 weeks"
 },
 
 "self_employed_federal": {
@@ -45,43 +45,43 @@
 
 
 "startup_back": {
-"startup_back": "57 months"
+"startup_back": "58 months"
 },
 
 "refugees_protected": {
-"refugees_protected_roc": "32 months",
-"refugees_protected_qc": "48 months"
+"refugees_protected_roc": "33 months",
+"refugees_protected_qc": "47 months"
 },
 
 "humanitarian_compassionate": {
 "humanitarian_compassionate_roc": "31 months",
-"humanitarian_compassionate_qc": "55 months"
+"humanitarian_compassionate_qc": "56 months"
 },
 
 "citizenship": {
 "cit_resumption": "Not enough data",
-"cit_renunciation": "10 months",
+"cit_renunciation": "8 months",
 "cit_search": "17 months",
 "cit_adoption_part1": "Part 1: 5 months"
 },
 
 "pr_card": {
-"new_pr": "51 days",
-"existing_pr": "27 days"
+"new_pr": "48 days",
+"existing_pr": "26 days"
 },
 
 "rep_documents": {
 "vos": "17 weeks",
 "replacement": "3 weeks",
-"amend_imm": "13 weeks",
-"amend_tr": "3 weeks"
+"amend_imm": "12 weeks",
+"amend_tr": "4 weeks"
 },
 
 "caregivers": {
-"childcare": "44 months",
+"childcare": "46 months",
 "childcare_pr": "33 months",
-"supportworker": "27 months",
-"supportworker_pr": "23 months"
+"supportworker": "26 months",
+"supportworker_pr": "24 months"
 },
 
 "sawp": {
@@ -89,7 +89,7 @@
 },
 
 "dependents_protected_persons": {
-"dependents_protected_persons": "51 months"
+"dependents_protected_persons": "52 months"
 },
 
 "atlantic-immigration-program": {

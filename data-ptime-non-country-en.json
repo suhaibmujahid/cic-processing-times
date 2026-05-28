@@ -1,25 +1,23 @@
 {
 "default-update": {
-"lastupdated": "May 20, 2026",
-"flpt_lastupdated": "October 1, 2025",
-"flpt_interval": " monthly"
+"lastupdated": "May 26, 2026"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "16 days"
+"visitor_inside_canada": "25 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "315 days"
+"visitor_extension": "312 days"
 },
 
 
 "study_extension": {
-"study_extension": "63 days"
+"study_extension": "54 days"
 },
 
 "work_extension": {
-"work_extension": "206 days"
+"work_extension": "201 days"
 },
 
 "iec": {
@@ -31,31 +29,9 @@
 "eta": "5 minutes"
 },
 
-"quebec_business": {
-"quebec_business": "103 weeks"
-},
-
-"self_employed_federal": {
-"self_employed_federal": "57 months"
-},
 
 "fed_skilled_trades": {
 "skilled_trades_ee": "Not enough data"
-},
-
-
-"startup_back": {
-"startup_back": "60 months"
-},
-
-"refugees_protected": {
-"refugees_protected_roc": "32 months",
-"refugees_protected_qc": "47 months"
-},
-
-"humanitarian_compassionate": {
-"humanitarian_compassionate_roc": "32 months",
-"humanitarian_compassionate_qc": "57 months"
 },
 
 "citizenship": {
@@ -77,79 +53,8 @@
 "amend_tr": "4 weeks"
 },
 
-
-
-
-
-
-
-
 "sawp": {
 "sawp_current": "7 days"
-},
-
-"dependents_protected_persons": {
-"dependents_protected_persons": "52 months"
-},
-
-"atlantic-immigration-program": {
-"atlantic-immigration-program": "18 months"
-},
-
-"empp": {
-
-},
-
-"cec_flpt": {
-"cec_flpt": "6 months"
-},
-
-"pnp_ee_flpt": {
-"pnp_ee_flpt": "7 months"
-},
-
-"pnp_flpt": {
-"pnp_flpt": "19 months"
-},
-
-"fsw_ee_flpt": {
-"fsw_ee_flpt": "5 months"
-},
-
-"skilled_workers_qc_flpt": {
-"skilled_workers_qc_flpt": "9 months"
-},
-
-"cit_grant_flpt": {
-"cit_grant_flpt": "13 months"
-},
-
-"cit_proof_flpt": {
-"cit_proof_flpt": "7 months"
-},
-
-"spousal_canada_qc_flpt": {
-"spousal_canada_qc_flpt": "37 months"
-},
-
-"spousal_canada_roc_flpt": {
-"spousal_canada_roc_flpt": "24 months"
-},
-
-"spousal_outside_qc_flpt": {
-"spousal_outside_qc_flpt": "41 months"
-},
-
-"spousal_outside_roc_flpt": {
-"spousal_outside_roc_flpt": "15 months"
-},
-
-"pgp_qc_flpt": {
-"pgp_qc_flpt": "44 months"
-},
-
-"pgp_roc_flpt": {
-"pgp_roc_flpt": "26 months"
 }
 
 }

@@ -1,23 +1,23 @@
 {
 "default-update": {
-"lastupdated": "June 24, 2026"
+"lastupdated": "July 2, 2026"
 },
 
 "visitor_inside_canada": {
-"visitor_inside_canada": "42 days"
+"visitor_inside_canada": "38 days"
 },
 
 "visitor_extension": {
-"visitor_extension": "288 days"
+"visitor_extension": "245 days"
 },
 
 
 "study_extension": {
-"study_extension": "71 days"
+"study_extension": "70 days"
 },
 
 "work_extension": {
-"work_extension": "144 days"
+"work_extension": "129 days"
 },
 
 "iec": {
@@ -42,19 +42,19 @@
 },
 
 "pr_card": {
-"new_pr": "38 days",
+"new_pr": "37 days",
 "existing_pr": "32 days"
 },
 
 "rep_documents": {
 "vos": "13 weeks",
 "replacement": "5 weeks",
-"amend_imm": "8 weeks",
+"amend_imm": "7 weeks",
 "amend_tr": "5 weeks"
 },
 
 "sawp": {
-"sawp_current": "26 days"
+"sawp_current": "31 days"
 }
 
 }

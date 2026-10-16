@@ -1,8 +1,8 @@
 service,time,lastupdated
-visitor_inside_canada / visitor_inside_canada,11 days,
-visitor_extension / visitor_extension,370 days,
-study_extension / study_extension,59 days,
-work_extension / work_extension,112 days,
+visitor_inside_canada / visitor_inside_canada,12 days,
+visitor_extension / visitor_extension,357 days,
+study_extension / study_extension,56 days,
+work_extension / work_extension,118 days,
 iec / iec,6 weeks,
 iec / iec_past,Not enough data,
 eta / eta,5 minutes,

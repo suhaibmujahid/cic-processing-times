@@ -1,61 +1,57 @@
 {
-"default-update": {
-"lastupdated": "October 21, 2026"
-},
+	"default-update": {
+		"lastupdated": "October 29, 2026"
+	},
 
-"visitor_inside_canada": {
-"visitor_inside_canada": "12 days"
-},
+	"visitor_inside_canada": {
+		"visitor_inside_canada": "12 days"
+	},
 
-"visitor_extension": {
-"visitor_extension": "341 days"
-},
+	"visitor_extension": {
+		"visitor_extension": "321 days"
+	},
 
+	"study_extension": {
+		"study_extension": "54 days"
+	},
 
-"study_extension": {
-"study_extension": "56 days"
-},
+	"work_extension": {
+		"work_extension": "123 days"
+	},
 
-"work_extension": {
-"work_extension": "121 days"
-},
+	"iec": {
+		"iec": "6 weeks",
+		"iec_past": "Not enough data"
+	},
 
-"iec": {
-"iec": "6 weeks",
-"iec_past": "Not enough data"
-},
+	"eta": {
+		"eta": "5 minutes"
+	},
 
-"eta": {
-"eta": "5 minutes"
-},
+	"fed_skilled_trades": {
+		"skilled_trades_ee": "Not enough data"
+	},
 
+	"citizenship": {
+		"cit_resumption": "Not enough data",
+		"cit_renunciation": "4 months",
+		"cit_search": "19 months",
+		"cit_adoption_part1": "Part 1: 4 months"
+	},
 
-"fed_skilled_trades": {
-"skilled_trades_ee": "Not enough data"
-},
+	"pr_card": {
+		"new_pr": "28 days",
+		"existing_pr": "43 days"
+	},
 
-"citizenship": {
-"cit_resumption": "Not enough data",
-"cit_renunciation": "4 months",
-"cit_search": "19 months",
-"cit_adoption_part1": "Part 1: 4 months"
-},
+	"rep_documents": {
+		"vos": "16 weeks",
+		"replacement": "11 weeks",
+		"amend_imm": "13 weeks",
+		"amend_tr": "9 weeks"
+	},
 
-"pr_card": {
-"new_pr": "30 days",
-"existing_pr": "40 days"
-},
-
-"rep_documents": {
-"vos": "16 weeks",
-"replacement": "11 weeks",
-"amend_imm": "13 weeks",
-"amend_tr": "9 weeks"
-},
-
-"sawp": {
-"sawp_current": "95 days"
+	"sawp": {
+		"sawp_current": "21 days"
+	}
 }
-
-}
-

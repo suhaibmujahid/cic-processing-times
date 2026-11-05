@@ -1,6 +1,6 @@
 {
 	"default-update": {
-		"lastupdated": "October 29, 2026"
+		"lastupdated": "November 4, 2026"
 	},
 
 	"visitor_inside_canada": {
@@ -8,15 +8,15 @@
 	},
 
 	"visitor_extension": {
-		"visitor_extension": "321 days"
+		"visitor_extension": "310 days"
 	},
 
 	"study_extension": {
-		"study_extension": "54 days"
+		"study_extension": "53 days"
 	},
 
 	"work_extension": {
-		"work_extension": "123 days"
+		"work_extension": "120 days"
 	},
 
 	"iec": {
@@ -35,23 +35,23 @@
 	"citizenship": {
 		"cit_resumption": "Not enough data",
 		"cit_renunciation": "4 months",
-		"cit_search": "19 months",
-		"cit_adoption_part1": "Part 1: 4 months"
+		"cit_search": "18 months",
+		"cit_adoption_part1": "Part 1: 5 months"
 	},
 
 	"pr_card": {
-		"new_pr": "28 days",
-		"existing_pr": "43 days"
+		"new_pr": "29 days",
+		"existing_pr": "46 days"
 	},
 
 	"rep_documents": {
-		"vos": "16 weeks",
+		"vos": "20 weeks",
 		"replacement": "11 weeks",
-		"amend_imm": "13 weeks",
-		"amend_tr": "9 weeks"
+		"amend_imm": "16 weeks",
+		"amend_tr": "11 weeks"
 	},
 
 	"sawp": {
-		"sawp_current": "21 days"
+		"sawp_current": "10 days"
 	}
 }

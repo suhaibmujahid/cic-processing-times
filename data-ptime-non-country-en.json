@@ -1,57 +1,57 @@
 {
-	"default-update": {
-		"lastupdated": "November 4, 2026"
-	},
+    "default-update": {
+        "lastupdated": "November 12, 2026"
+    },
 
-	"visitor_inside_canada": {
-		"visitor_inside_canada": "12 days"
-	},
+    "visitor_inside_canada": {
+        "visitor_inside_canada": "12 days"
+    },
 
-	"visitor_extension": {
-		"visitor_extension": "310 days"
-	},
+    "visitor_extension": {
+        "visitor_extension": "304 days"
+    },
 
-	"study_extension": {
-		"study_extension": "53 days"
-	},
+    "study_extension": {
+        "study_extension": "52 days"
+    },
 
-	"work_extension": {
-		"work_extension": "120 days"
-	},
+    "work_extension": {
+        "work_extension": "120 days"
+    },
 
-	"iec": {
-		"iec": "6 weeks",
-		"iec_past": "Not enough data"
-	},
+    "iec": {
+        "iec": "5 weeks",
+        "iec_past": "Not enough data"
+    },
 
-	"eta": {
-		"eta": "5 minutes"
-	},
+    "eta": {
+        "eta": "5 minutes"
+    },
 
-	"fed_skilled_trades": {
-		"skilled_trades_ee": "Not enough data"
-	},
+    "fed_skilled_trades": {
+        "skilled_trades_ee": "Not enough data"
+    },
 
-	"citizenship": {
-		"cit_resumption": "Not enough data",
-		"cit_renunciation": "4 months",
-		"cit_search": "18 months",
-		"cit_adoption_part1": "Part 1: 5 months"
-	},
+    "citizenship": {
+        "cit_resumption": "Not enough data",
+        "cit_renunciation": "4 months",
+        "cit_search": "18 months",
+        "cit_adoption_part1": "Part 1: 5 months"
+    },
 
-	"pr_card": {
-		"new_pr": "29 days",
-		"existing_pr": "46 days"
-	},
+    "pr_card": {
+        "new_pr": "30 days",
+        "existing_pr": "49 days"
+    },
 
-	"rep_documents": {
-		"vos": "20 weeks",
-		"replacement": "11 weeks",
-		"amend_imm": "16 weeks",
-		"amend_tr": "11 weeks"
-	},
+    "rep_documents": {
+        "vos": "20 weeks",
+        "replacement": "11 weeks",
+        "amend_imm": "16 weeks",
+        "amend_tr": "11 weeks"
+    },
 
-	"sawp": {
-		"sawp_current": "10 days"
-	}
+    "sawp": {
+        "sawp_current": "7 days"
+    }
 }
